@@ -1,8 +1,8 @@
 <template>
-  <section class="hero is-link">
+  <section class="hero is-info">
     <div class="hero-body">
       <p class="title">
-        Link hero
+        Primary hero
       </p>
       <p class="subtitle">
         Link subtitle

@@ -1,6 +1,7 @@
 <template>
     <div>
         <Nav />
+        <Hero />
         <Footer />
     </div>
 </template>

@@ -20,7 +20,7 @@
         </a>
   
         <a class="navbar-item">
-          Documentation
+          Work
         </a>
   
         <div class="navbar-item has-dropdown is-hoverable">

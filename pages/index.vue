@@ -2,7 +2,6 @@
     <div>
         <NuxtLayout>
             <Nav />
-            <Hero />
             <Footer />
         </NuxtLayout>
     </div>

@@ -9,9 +9,9 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.9",
-    "sass": "^1.54.9"
+    "sass": "1.54.9"
   },
   "dependencies": {
-    "bulma": "^0.9.4"
+    "bulma": "0.9.4"
   }
 }

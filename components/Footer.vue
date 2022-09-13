@@ -6,11 +6,11 @@
                 <strong>&#169; 2016-2022 Phil Choi.</strong>
             </p>
         </div>
-        <div class="level has-text-right-mobile">
-            <p class="level-item has-text-centered">
+        <div class="level has-text-right-mobile is-mobile">
+            <p class="level-item">
                 <a href="https://linkedin.com/in/pchoi1/">LinkedIn</a>
             </p>
-            <p class="level-item has-text-centered">
+            <p class="level-item">
                 <a href="mailto:contact@philchoi.ca">Email</a>
             </p>
         </div>

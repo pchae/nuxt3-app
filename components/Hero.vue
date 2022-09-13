@@ -1,16 +1,18 @@
 <template>
   <section class="hero is-info">
     <div class="hero-body">
-      <p class="title">
-        Primary hero
-      </p>
-      <p class="subtitle">
-        Link subtitle
-      </p>
+      <h1 class="title">
+        Phil Choi is a Product Designer based in Toronto.
+      </h1>
+      <h2 class="subtitle">
+        Principal Product Designer at <a href="https://flipboard.com/">Flipboard</a>. Previously at <a href="https://momentumdesignlab.com">Momentum</a> & RBC Ventures.
+      </h2>
     </div>
   </section>
 </template>
 
-<script setup></script>
+<script setup>
+</script>
 
-<style></style>
+<style>
+</style>

@@ -17,7 +17,7 @@
             </div>
         </section>
 
-        <section id="clients" class="container my-6">
+        <section id="clients" class="container my-6 px-4">
             <div class="content has-text-centered mt-6">
                 <h1 class="title">Past Clients</h1>
             </div>

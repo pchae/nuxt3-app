@@ -2,9 +2,9 @@
   <div>
     <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
-      <a class="navbar-item" href="https://bulma.io">
+      <NuxtLink to="/" class="navbar-item">
         <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
-      </a>
+      </NuxtLink>
   
       <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasic" @click="toggleAction">
         <span aria-hidden="true"></span>
@@ -18,12 +18,12 @@
       </div>
   
       <div class="navbar-end">
-        <a class="navbar-item">
+        <NuxtLink to="/" class="navbar-item">
           Work
-        </a>
-        <a class="navbar-item">
+        </NuxtLink>
+        <NuxtLink to="/about" class="navbar-item">
           About
-        </a>
+        </NuxtLink>
       </div>
     </div>
   </nav>
@@ -51,5 +51,10 @@
   };
 </script>
 
-<style>
+<style lang="scss" scoped>
+@import '~/assets/styles/_variables.scss';
+
+  .navbar-item {
+    color: $purple;
+  }
 </style>

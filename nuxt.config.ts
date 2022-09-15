@@ -9,4 +9,13 @@ export default defineNuxtConfig({
         script: [],
     },
     css: ["assets/styles/main.scss"],
+    vite: {
+        css: {
+            preprocessorOptions: {
+                sass: {
+                    additionalData: '@use "~/assets/styles/_variables.scss";',
+                },
+            },
+        }
+    }
 })

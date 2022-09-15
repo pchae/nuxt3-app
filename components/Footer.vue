@@ -3,7 +3,7 @@
     <div class="level is-mobile">
         <div class=" has-text-left-mobile">
             <p>
-                <strong>&#169; 2016-2022 Phil Choi.</strong>
+                <strong>&#169; 2014-2022 PC.</strong>
             </p>
         </div>
         <div class="level has-text-right-mobile is-mobile">
@@ -18,8 +18,13 @@
   </footer>
 </template>
 
-<script setup>
+<script>
 </script>
 
-<style>
+<style lang="scss" scoped>
+@import '~/assets/styles/_variables.scss';
+
+    .footer {
+        $footer-background-color: $black;
+    }
 </style>

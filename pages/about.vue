@@ -17,76 +17,38 @@
             </div>
         </section>
 
-        <section id="clients" class="container py-6 px-4">
+        <section id="clients" class="container py-6">
             <div class="content is-medium has-text-centered mt-6">
                 <h1 class="title">Past Clients</h1>
             </div>
+
             <div class="columns is-mobile m-2">
-                <div class="column">
-                    <figure class="image is-128x128">
+
+                <div class="column ">
+                    <figure class="image container">
                         <img src="https://bulma.io/images/placeholders/128x128.png">
                     </figure>
                 </div>
-                <div class="column">
-                    <figure class="image is-128x128">
+
+                <div class="column ">
+                    <figure class="image container">
                         <img src="https://bulma.io/images/placeholders/128x128.png">
                     </figure>
                 </div>
-                <div class="column">
-                    <figure class="image is-128x128">
+
+                <div class="column ">
+                    <figure class="image container">
                         <img src="https://bulma.io/images/placeholders/128x128.png">
                     </figure>
                 </div>
-                <div class="column">
-                    <figure class="image is-128x128">
+
+                <div class="column ">
+                    <figure class="image container">
                         <img src="https://bulma.io/images/placeholders/128x128.png">
                     </figure>
                 </div>
             </div>
-            <div class="columns is-mobile m-2">
-                <div class="column">
-                    <figure class="image is-128x128">
-                        <img src="https://bulma.io/images/placeholders/128x128.png">
-                    </figure>
-                </div>
-                <div class="column">
-                    <figure class="image is-128x128">
-                        <img src="https://bulma.io/images/placeholders/128x128.png">
-                    </figure>
-                </div>
-                <div class="column">
-                    <figure class="image is-128x128">
-                        <img src="https://bulma.io/images/placeholders/128x128.png">
-                    </figure>
-                </div>
-                <div class="column">
-                    <figure class="image is-128x128">
-                        <img src="https://bulma.io/images/placeholders/128x128.png">
-                    </figure>
-                </div>
-            </div>
-            <div class="columns is-mobile m-2">
-                <div class="column">
-                    <figure class="image is-128x128">
-                        <img src="https://bulma.io/images/placeholders/128x128.png">
-                    </figure>
-                </div>
-                <div class="column">
-                    <figure class="image is-128x128">
-                        <img src="https://bulma.io/images/placeholders/128x128.png">
-                    </figure>
-                </div>
-                <div class="column">
-                    <figure class="image is-128x128">
-                        <img src="https://bulma.io/images/placeholders/128x128.png">
-                    </figure>
-                </div>
-                <div class="column">
-                    <figure class="image is-128x128">
-                        <img src="https://bulma.io/images/placeholders/128x128.png">
-                    </figure>
-                </div>
-            </div>
+
         </section>
         <Footer />        
     </div>

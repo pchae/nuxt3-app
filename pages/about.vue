@@ -3,7 +3,7 @@
         <Nav />
 
         <section id="intro" class="container is-widescreen py-6 px-4">
-            <div class="content is-large mt-6">
+            <div class="content is-medium mt-6">
                 <h1 class="title">My focus is on art, design, and technology as well as when, where, and how they affect everyday life.</h1>
             </div>
             <div class="content ">
@@ -17,12 +17,39 @@
             </div>
         </section>
 
-        <section id="clients" class="container py-6">
-            <div class="content is-medium has-text-centered mt-6">
+        <section id="clients" class="container my-6">
+            <div class="content has-text-centered mt-6">
                 <h1 class="title">Past Clients</h1>
             </div>
 
-            <div class="columns is-mobile m-2">
+            <div class="columns is-mobile">
+
+                <div class="column ">
+                    <figure class="image container">
+                        <img src="https://bulma.io/images/placeholders/128x128.png">
+                    </figure>
+                </div>
+
+                <div class="column ">
+                    <figure class="image container">
+                        <img src="https://bulma.io/images/placeholders/128x128.png">
+                    </figure>
+                </div>
+
+                <div class="column ">
+                    <figure class="image container">
+                        <img src="https://bulma.io/images/placeholders/128x128.png">
+                    </figure>
+                </div>
+
+                <div class="column ">
+                    <figure class="image container">
+                        <img src="https://bulma.io/images/placeholders/128x128.png">
+                    </figure>
+                </div>
+            </div>
+
+            <div class="columns is-mobile">
 
                 <div class="column ">
                     <figure class="image container">
@@ -50,6 +77,22 @@
             </div>
 
         </section>
+
+        <section id="cta" class="box mb-0">
+            <div class="container py-6">
+                <div class="has-text-centered pb-4">
+                    <h1 class="title">Say Hello</h1>
+                </div>
+                <div class="level is-centered">
+                    <div class="level-item">
+                        <button class="button is-medium is-secondary is-info is-light">
+                            <a href="mailto:contact@philchoi.ca>">Send an email</a>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <Footer />        
     </div>
 </template>

@@ -1,13 +1,13 @@
 <template>
-  <footer class="footer">
+  <footer class="footer has-background-black">
     <div class="level is-mobile">
         <div class=" has-text-left-mobile">
-            <p>
-                <strong>&#169; 2014-2022 PC.</strong>
+            <p class="">
+                <strong class="has-text-white">&#169; 2014-2022 Phil Choi.</strong>
             </p>
         </div>
         <div class="level has-text-right-mobile is-mobile">
-            <p class="level-item">
+            <p class="level-item pr-2">
                 <a href="https://linkedin.com/in/pchoi1/">LinkedIn</a>
             </p>
             <p class="level-item">
@@ -22,9 +22,9 @@
 </script>
 
 <style lang="scss" scoped>
-@import '~/assets/styles/_variables.scss';
 
     .footer {
-        $footer-background-color: $black;
+        padding: 3rem 1.5rem;
     }
+
 </style>

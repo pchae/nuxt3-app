@@ -3,7 +3,7 @@
     <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <NuxtLink to="/" class="navbar-item">
-        <h2 class="subtitle">PC</h2>
+        <h2 class="subtitle"><strong>PC</strong></h2>
       </NuxtLink>
   
       <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasic" @click="toggleAction">

@@ -3,7 +3,7 @@
     <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <NuxtLink to="/" class="navbar-item">
-        <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
+        <h2 class="subtitle">PC</h2>
       </NuxtLink>
   
       <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasic" @click="toggleAction">
@@ -55,6 +55,6 @@
 @import '~/assets/styles/_variables.scss';
 
   .navbar-item {
-    color: $purple;
+    color: $blue;
   }
 </style>

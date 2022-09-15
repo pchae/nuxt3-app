@@ -2,7 +2,7 @@
     <div>
         <Nav />
 
-        <section id="intro" class="container is-widescreen py-6">
+        <section id="intro" class="container is-widescreen py-6 px-4">
             <div class="content is-large mt-6">
                 <h1 class="title">My focus is on art, design, and technology as well as when, where, and how they affect everyday life.</h1>
             </div>
@@ -17,11 +17,11 @@
             </div>
         </section>
 
-        <section id="clients" class="container py-6">
+        <section id="clients" class="container py-6 px-4">
             <div class="content is-medium has-text-centered mt-6">
                 <h1 class="title">Past Clients</h1>
             </div>
-            <div class="columns is-mobile is-centered m-2">
+            <div class="columns is-mobile m-2">
                 <div class="column">
                     <figure class="image is-128x128">
                         <img src="https://bulma.io/images/placeholders/128x128.png">
@@ -43,7 +43,7 @@
                     </figure>
                 </div>
             </div>
-            <div class="columns is-mobile is-centered m-2">
+            <div class="columns is-mobile m-2">
                 <div class="column">
                     <figure class="image is-128x128">
                         <img src="https://bulma.io/images/placeholders/128x128.png">
@@ -65,7 +65,7 @@
                     </figure>
                 </div>
             </div>
-            <div class="columns is-mobile is-centered m-2">
+            <div class="columns is-mobile m-2">
                 <div class="column">
                     <figure class="image is-128x128">
                         <img src="https://bulma.io/images/placeholders/128x128.png">

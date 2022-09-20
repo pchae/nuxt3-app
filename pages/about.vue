@@ -1,5 +1,9 @@
 <template>
     <div class="">
+        <Head>
+            <Title>Phil Choi - About</Title>
+            <Meta name="description" content="About Phil Choi, Product Designer based in Toronto"/>
+        </Head>
         <Nav />
 
         <section id="intro" class="container is-widescreen py-6 px-4">
@@ -125,9 +129,6 @@
 
 
 <script setup>
-    useMeta({
-        title: 'Phil Choi - About'
-    })
 </script>
 
 

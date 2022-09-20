@@ -6,8 +6,14 @@ export default defineNuxtConfig({
         meta: [
             { name: "viewport", content: "width=device-width, initial-scale=1" },
         ],
+
+        htmlAttrs: {
+            'lang': 'en',
+        },
+
         script: [],
     },
+
     css: ["assets/styles/main.scss"],
     vite: {
         css: {

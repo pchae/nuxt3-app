@@ -8,6 +8,9 @@
 
 
 <script setup>
+    useMeta({
+        title: 'Phil Choi - Product Designer'
+    })
 </script>
 
 

@@ -124,7 +124,10 @@
 </template>
 
 
-<script>
+<script setup>
+    useMeta({
+        title: 'About - Phil Choi'
+    })
 </script>
 
 

@@ -126,7 +126,7 @@
 
 <script setup>
     useMeta({
-        title: 'About - Phil Choi'
+        title: 'Phil Choi - About'
     })
 </script>
 

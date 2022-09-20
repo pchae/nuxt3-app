@@ -139,7 +139,7 @@
                 </div>
                 <div class="level is-centered">
                     <div class="level-item mb-6">
-                        <a href="mailto:contact@philchoi.ca>">
+                        <a href="mailto:contact@philchoi.ca">
                             <button class="button is-medium is-link is-outlined">
                                 <p><strong>Send an email</strong></p>
                             </button>

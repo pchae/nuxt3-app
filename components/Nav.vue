@@ -3,10 +3,10 @@
     <nav class="navbar is-black is-fixed-top" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <NuxtLink to="/" class="navbar-item">
-          <h2 class=""><strong>PC</strong></h2>
+          <h2><strong>PC</strong></h2>
         </NuxtLink>
 
-        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" @click="toggleAction">
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample" @click="toggleAction">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
@@ -32,10 +32,10 @@
     <nav class="navbar is-black">
       <div class="navbar-brand">
         <NuxtLink to="/" class="navbar-item">
-          <h2 class=""><strong>PC</strong></h2>
+          <h2><strong>PC</strong></h2>
         </NuxtLink>
 
-        <a role="button" class="navbar-burger is-active" aria-label="menu" aria-expanded="true" @click="toggleAction">
+        <a role="button" class="navbar-burger is-active" aria-label="menu" aria-expanded="true" data-target="navbarBasicExample" @click="toggleAction">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
@@ -43,7 +43,7 @@
       </div>
     </nav>
 
-    <div class="columns is-vcentered">
+    <div class="columns">
       <div class="column">
         <div class="navbar-item">
           <NuxtLink to="/" active-class="active">
@@ -59,7 +59,7 @@
 
         <div class="navbar-item">
           <NuxtLink to="/about" active-class="active">
-            <h2 class="is-size-3-tablet is-size-4-mobile">Experimental</h2>
+            <h2 class="is-size-3-tablet is-size-4-mobile">Experiment</h2>
           </NuxtLink>
         </div>
       </div>
@@ -80,15 +80,6 @@ export default {
   methods: {
     toggleAction: function () {
       this.toggle = !this.toggle;
-      if (this.toggle) {
-        this.scrollTop = document.documentElement.scrollTop
-        document.body.style.position = 'fixed'
-        document.body.style.marginTop = -this.scrollTop + 'px'
-      } else {
-        document.body.style.marginTop = 0
-        document.body.style.position = 'relative'
-        document.documentElement.scrollTo(0, this.scrollTop)
-      }
     },
   },
 };

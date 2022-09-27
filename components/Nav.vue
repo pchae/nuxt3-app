@@ -89,12 +89,13 @@ export default {
 @import '~/assets/styles/_variables.scss';
 
 .navbar {
-  padding: 0 .5rem;
+  padding: 0 .75rem;
 }
 .navbar-item {
   color: $blue;
   &:hover {
     background: none;
+    color: $red;
   }
 }
 

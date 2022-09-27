@@ -11,7 +11,7 @@
   </section>
 </template>
 
-<script setup>
+<script>
 </script>
 
 <style>

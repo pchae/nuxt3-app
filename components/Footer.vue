@@ -35,10 +35,10 @@
 }
 
 .navbar-item {
-    color: $blue;
-
-    &:hover {
-        background: none;
-    }
+  color: $blue;
+  &:hover {
+    background: none;
+    color: $red;
+  }
 }
 </style>

@@ -29,7 +29,7 @@
   </div>
 
   <div v-show="toggle" id="menuOverlay" class="overlay">
-    <div class="navbar is-black">
+    <nav class="navbar is-black">
       <div class="navbar-brand">
         <NuxtLink to="/" class="navbar-item">
           <h2 class=""><strong>PC</strong></h2>
@@ -41,7 +41,7 @@
           <span aria-hidden="true"></span>
         </a>
       </div>
-    </div>
+    </nav>
 
     <div class="columns is-vcentered">
       <div class="column">

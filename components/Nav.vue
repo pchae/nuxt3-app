@@ -58,7 +58,7 @@
         </div>
 
         <div class="navbar-item">
-          <NuxtLink to="/about" active-class="active">
+          <NuxtLink to="/tos" active-class="active">
             <h2 class="is-size-3-tablet is-size-4-mobile">Experiment</h2>
           </NuxtLink>
         </div>

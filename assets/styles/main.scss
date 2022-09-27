@@ -6,6 +6,7 @@
 // Set your brand colors
 $purple: #8A4D76;
 $pink: #FA7C91;
+$red: #F80C80;
 $brown: #757763;
 $beige-light: #D0D1CD;
 $beige-lighter: #EFF0EB;
@@ -27,6 +28,8 @@ $body-background-color: $black;
 $control-border-width: 2px;
 $input-border-color: transparent;
 $input-shadow: none;
+
+$link-hover: $red;
 
 // Import only what you need from Bulma
 // @import "../node_modules/bulma/sass/utilities/_all.sass";

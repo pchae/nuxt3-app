@@ -1,9 +1,9 @@
 <template>
   <div>
-    <nav class="navbar" role="navigation" aria-label="main navigation">
+    <nav class="navbar is-black is-fixed-top" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <NuxtLink to="/" class="navbar-item">
-          <h2 class="subtitle"><strong>PC</strong></h2>
+          <h2 class=""><strong>PC</strong></h2>
         </NuxtLink>
 
         <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample" @click="toggleAction">
@@ -30,10 +30,10 @@
 
   <div v-show="toggle" id="menuOverlay" class="overlay">
         <div id="header" class="">
-          <div class="navbar">
+          <div class="navbar is-black">
             <div class="navbar-brand">
               <NuxtLink to="/" class="navbar-item">
-                <h2 class="subtitle"><strong>Overlay</strong></h2>
+                <h2 class=""><strong>Overlay</strong></h2>
               </NuxtLink>
 
               <a role="button" class="navbar-burger is-active" aria-label="menu" aria-expanded="true" data-target="navbarBasicExample" @click="toggleAction">
@@ -101,7 +101,8 @@ methods: {
 </script>
 
 <style lang="scss" scoped>
-@import '~/assets/styles/_variables.scss';
+
+  @import '~/assets/styles/_variables.scss';
 
   .navbar-item {
     color: $blue;

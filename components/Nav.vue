@@ -3,7 +3,7 @@
     <nav class="navbar is-black is-fixed-top" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <NuxtLink to="/" class="navbar-item">
-          <h2><strong>PC</strong></h2>
+          <h2 class=""><strong>PC</strong></h2>
         </NuxtLink>
 
         <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample" @click="toggleAction">
@@ -111,7 +111,7 @@ export default {
 }
 
 .active>h2 {
-  color: #f80c80;
+  color: $red;
   border-bottom: 1px solid;
 }
 </style>

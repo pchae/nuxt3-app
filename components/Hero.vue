@@ -5,7 +5,7 @@
         Phil Choi is a Product Designer based in Toronto.
       </h1>
       <h2 class="subtitle has-text-grey-light">
-        Principal Product Designer at <a href="https://flipboard.com/">Flipboard</a>. Previously at <a href="https://momentumdesignlab.com">Momentum</a> & RBC Ventures.
+        Principal Product Designer at <NuxtLink to="https://flipboard.com/">Flipboard</NuxtLink>. Previously at <NuxtLink to="https://momentumdesignlab.com">Momentum</NuxtLink> & RBC Ventures.
       </h2>
     </div>
   </section>

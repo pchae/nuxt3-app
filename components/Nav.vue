@@ -97,8 +97,14 @@ export default {
 <style lang="scss" scoped>
 @import '~/assets/styles/_variables.scss';
 
+.navbar {
+  padding: 0 .5rem;
+}
 .navbar-item {
   color: $blue;
+  &:hover {
+    background: none;
+  }
 }
 
 /* Overlay Menu */

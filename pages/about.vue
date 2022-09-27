@@ -6,7 +6,7 @@
         </Head>
         <Nav />
 
-        <section id="intro" class="container is-widescreen py-6 px-4">
+        <section id="bio" class="container is-widescreen py-6 px-4">
             <div class="content is-medium mt-6">
                 <h1 class="title has-text-white">My focus is on art, design, and technology as well as when, where, and how they affect everyday life.</h1>
             </div>
@@ -174,11 +174,11 @@
                 </div>
                 <div class="level is-centered">
                     <div class="level-item mb-6">
-                        <a href="mailto:contact@philchoi.ca">
-                            <button class="button is-medium is-link is-outlined">
+                        <NuxtLink to="mailto:contact@philchoi.ca">
+                            <button class="button is-link is-medium is-outlined">
                                 <p><strong>Send an email</strong></p>
                             </button>
-                        </a>
+                        </NuxtLink>
                     </div>
                 </div>
             </div>
@@ -193,5 +193,18 @@
 </script>
 
 
-<style scoped>
+<style lang="scss" scoped>
+    @import '~/assets/styles/_variables.scss';
+
+    .button.is-link.is-outlined {
+        color: $blue;
+        background: none;
+        border-color: $blue;
+        &:hover {
+            color: $red;
+            background: none;
+            border-color: $red;
+        }
+    }
+
 </style>

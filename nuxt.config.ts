@@ -10,6 +10,7 @@ export default defineNuxtConfig({
 
         htmlAttrs: {
             'lang': 'en',
+            class: 'has-navbar-fixed-top',
         },
 
         script: [],

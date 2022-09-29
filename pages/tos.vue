@@ -2,7 +2,7 @@
     <div class="">
         <Head>
             <Title>Phil Choi - Terms of Service</Title>
-            <Meta name="description" content="About Phil Choi, Product Designer based in Toronto"/>
+            <Meta name="description" content="Saturdays.io Terms of Service"/>
         </Head>
         <Nav />
 

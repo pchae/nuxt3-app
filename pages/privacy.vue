@@ -3,7 +3,7 @@
 
     <Head>
       <Title>Phil Choi - Privacy Policy</Title>
-      <Meta name="description" content="About Phil Choi, Product Designer based in Toronto" />
+      <Meta name="description" content="Saturdays.io Privacy policy" />
     </Head>
     <Nav />
 

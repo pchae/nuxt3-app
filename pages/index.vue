@@ -6,15 +6,12 @@
         </Head>
         <Nav />
         <Hero />
-        <Footer />        
+        <Footer />
     </div>
 </template>
 
 
 <script setup>
-    useMeta({
-        title: 'Phil Choi - Product Designer'
-    })
 </script>
 
 

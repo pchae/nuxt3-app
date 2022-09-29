@@ -1,5 +1,5 @@
 <template>
-  <section class="hero has-background-black-ter">
+  <section class="hero has-background-black">
     <div class="hero-body">
       <h1 class="title has-text-white">
         Phil Choi is a Product Designer based in Toronto.

@@ -11,7 +11,7 @@
                 <h1 class="title has-text-white">Terms of Service</h1>
                 <p class="subtitle has-text-grey-light">Last updated: Jan 25, 2022</p>
             </div>
-            <div id="definition" class="">
+            <div id="definition" class="content is-normal">
             <p class="subtext has-text-grey-light pb-2">
               Saturdays.io, Inc. (“our,” “we,” or “us”) offers you access to mobile applications, websites, and real-time API services. These Terms of Service (“Terms”) apply to you as a user (“you” or “User”) and create a legal, binding contract between you and us regarding your access to or use of our applications, websites, content, features, products or other services (collectively, “Services”).
             </p>
@@ -23,7 +23,7 @@
             </p>
           </div>
 
-          <div id="use-of-services" class="py-6">
+          <div id="use-of-services" class="content is-normal py-6">
             <h1 class="subtitle has-text-weight-bold has-text-white">
               1. Use of Services
             </h1>
@@ -36,61 +36,61 @@
             <p class="subtext has-text-grey-light pb-2">
               Your use of the Services requires that you follow certain standards of conduct. We reserve the right in our sole discretion to disallow or remove any user from accessing or using the Services in the event we deem such standards of conduct are not being followed. By accessing or using the Services, you agree to not engage in the following via your access or use of the Services:
             </p>
-            <ul class="roman">
-              <li class="pb1">
+            <ol type="1">
+              <li>
                 <p class="subtext has-text-grey-light">
                   Violate any law, regulation or other right that may be subject to any criminal or civil penalty.
                 </p>
               </li>
-              <li class="pb1">
+              <li>
                 <p class="subtext has-text-grey-light">
                   Violate, infringe or otherwise use the intellectual property rights of a third party without permission.
                 </p>
               </li>
-              <li class="pb1">
+              <li>
                 <p class="subtext has-text-grey-light">
                   Violate or infringe on the publicity rights, privacy rights or other rights of third parties.
                 </p>
               </li>
-              <li class="pb1">
+              <li>
                 <p class="subtext has-text-grey-light">
                   Engage in the use of spyware or other software designed to collect and harvest data from us or the Services.
                 </p>
               </li>
-              <li class="pb1">
+              <li>
                 <p class="subtext has-text-grey-light">
                   Communicate with users of the Services for purposes of distributing malicious files, software or other programs meant to disrupt the use of computer systems or related technology, or for the purposes of “phishing” and other fraudulent activity.
                 </p>
               </li>
-              <li class="pb1">
+              <li>
                 <p class="subtext has-text-grey-light">
                   Harass, stalk, threaten, or otherwise harm another individual.
                 </p>
               </li>
-              <li class="pb1">
+              <li>
                 <p class="subtext has-text-grey-light">
                   Reverse engineer any of the software or underlying code used by us or in the Services.
                 </p>
               </li>
-              <li class="pb1">
+              <li>
                 <p class="subtext has-text-grey-light">
                   Impersonate any person or company, including, but not limited to, our employees, contractors or other personnel, or misrepresent your affiliation with a person or company.
                 </p>
               </li>
-              <li class="pb1">
+              <li>
                 <p class="subtext has-text-grey-light">
                   Create and register more than one profile associated with the Services, including registering a profile on behalf of an individual other than yourself.
                 </p>
               </li>
-              <li class="pb1">
+              <li>
                 <p class="subtext has-text-grey-light">
                   Encourage or otherwise assist any other party to do any of the acts previously described in this section.
                 </p>
               </li>
-            </ul>
+            </ol>
           </div>
 
-          <div id="service-disruption-terminate" class="py-6">
+          <div id="service-disruption-terminate" class="content is-normal py-6">
             <h1 class="subtitle has-text-weight-bold has-text-white">
               2. Service Disruptions and Terminating Use of the Services
             </h1>
@@ -108,7 +108,7 @@
             </p>
           </div>
 
-          <div id="partners-third-party" class="py-6">
+          <div id="partners-third-party" class="content is-normal py-6">
             <h1 class="subtitle has-text-weight-bold has-text-white">
               3. Partners and third-parties
             </h1>
@@ -117,7 +117,7 @@
             </p>
           </div>
 
-          <div id="ownership" class="py-6">
+          <div id="ownership" class="content is-normal py-6">
             <h1 class="subtitle has-text-weight-bold has-text-white">
               4. Ownership and Rights
             </h1>
@@ -138,7 +138,7 @@
             </p>
           </div>
 
-          <div id="misc" class="py-6">
+          <div id="misc" class="content is-normal py-6">
             <h1 class="subtitle has-text-weight-bold has-text-white">
               5. Miscellaneous
             </h1>

@@ -2,7 +2,7 @@
     <div>
 
         <Head>
-            <Title>Phil Choi - 404 Page not found</Title>
+            <Title>Phil Choi - Page not found</Title>
             <Meta name="description" content="Phil Choi - 404 error not found" />
         </Head>
         <Nav />

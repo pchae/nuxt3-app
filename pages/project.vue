@@ -10,8 +10,8 @@
         <section id="intro" class="container is-widescreen py-6 px-4">
             <div class="content is-medium">
                 <h1 class="title has-text-white">Engage: Content Studio</h1>
-                <h3 class="subtitle has-text-weight-normal has-text-grey-light">Modernizing social content for
-                    Enterprise SaaS</h3>
+                <p class="subtitle has-text-grey-light">Modernizing social content for
+                    Enterprise SaaS</p>
             </div>
         </section>
 

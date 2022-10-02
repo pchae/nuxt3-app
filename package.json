@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.11",
-    "nuxt-purgecss": "^2.0.0",
+    "nuxt-purgecss": "2.0.0",
     "sass": "1.55.0"
   },
   "dependencies": {

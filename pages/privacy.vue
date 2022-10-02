@@ -8,7 +8,7 @@
     <Nav />
 
     <section id="legal" class="container is-widescreen py-6 px-4">
-      <div class="content is-medium mt-6">
+      <div class="content is-medium">
         <h1 class="title has-text-white">Privacy Policy</h1>
         <p class="subtitle has-text-grey-light">Last updated: Jan 25, 2022</p>
       </div>
@@ -17,7 +17,7 @@
           Saturdays.io, Inc. (“our,” “we,” or “us”), takes your (“you,” “your,” or the “User”) privacy seriously. We may
           collect, use, and share some of your personal information. This Privacy Policy is a guide to explain how we do
           that, and your rights as a User. This Privacy Policy forms part of our Terms of Service available at <NuxtLink
-            to="https://saturdays.io/tos" rel="noreferrer" target="_blank">https://saturdays.io/tos</NuxtLink>.
+            to="/tos" rel="noreferrer" target="_blank">https://saturdays.io/tos</NuxtLink>.
         </p>
 
       </div>

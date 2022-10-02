@@ -7,7 +7,7 @@
         <Nav />
 
         <section id="legal" class="container is-widescreen py-6 px-4">
-            <div class="content is-medium mt-6">
+            <div class="content is-medium">
                 <h1 class="title has-text-white">Terms of Service</h1>
                 <p class="subtitle has-text-grey-light">Last updated: Jan 25, 2022</p>
             </div>
@@ -19,7 +19,7 @@
               Please read these Terms carefully. Your access to and use of the Services are impacted by these Terms and if you do not agree to any of these Terms, you may not access or use the Services.
             </p>
             <p class="subtext has-text-grey-light">
-              Your privacy is important to us. Our Privacy Policy describes the types of information we collect from you, what we do with it and how we might share it. You can read it here <NuxtLink to="https://saturdays.io/privacy" rel="noreferrer" target="_blank">https://saturdays.io/privacy</NuxtLink>. Your access and use of the Services constitute your agreement not only to these Terms but the Privacy Policy as well.
+              Your privacy is important to us. Our Privacy Policy describes the types of information we collect from you, what we do with it and how we might share it. You can read it here <NuxtLink to="/privacy" rel="noreferrer" target="_blank">https://saturdays.io/privacy</NuxtLink>. Your access and use of the Services constitute your agreement not only to these Terms but the Privacy Policy as well.
             </p>
           </div>
 

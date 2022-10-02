@@ -57,7 +57,7 @@
                 <picture>
                     <source type="image/webp" srcset="/assets/project/engage/m_redesign.webp">
                     <source type="image/png" srcset="/assets/project/engage/m_redesign.png">
-                    <img src="/assets/project/engage/redesign.webp" alt="Native app design examples." draggable="false" width="1600"
+                    <img src="/assets/project/engage/m_redesign.webp" alt="Native app design examples." draggable="false" width="1600"
                         height="1013">
                 </picture>
             </div>

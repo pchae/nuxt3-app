@@ -25,5 +25,10 @@ export default defineNuxtConfig({
                 },
             },
         }
-    }
+    },
+    modules: [
+        // comment
+        'nuxt-purgecss',
+        
+    ]
 })

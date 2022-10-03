@@ -158,7 +158,7 @@
             <div class="">
                 <picture>
                     <source type="image/webp" srcset="/assets/project/engage/engage-new_ui.webp">
-                    <source type="image/png" srcset="/assets/project/engage/engage-new_ui.png">
+                    <source type="image/png" srcset="/assets/project/engage/engage-new_ui.jpg">
                     <img src="/assets/project/engage/engage-new_ui.webp" alt="Figma mobile-first wireframes." draggable="false" width="2000"
                         height="1040">
                 </picture>

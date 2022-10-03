@@ -74,6 +74,14 @@
                     features to sunset. Meanwhile, initiatives like client outreach with CSMs allowed us to uncover new
                     issues which led to a reprioritization of the roadmap.</p>
             </div>
+            <div class="">
+                <picture>
+                    <source type="image/webp" srcset="/assets/project/engage/pendo.webp">
+                    <source type="image/png" srcset="/assets/project/engage/pendo.jpg">
+                    <img src="/assets/project/engage/pendo.webp" alt="Pendo.ai analytics tool screenshot." draggable="false" width="1600"
+                        height="960">
+                </picture>
+            </div>
         </section>
 
         <section id="wireframes" class="container py-6 px-4">
@@ -87,6 +95,14 @@
                     finally be able to create, edit, and post written and rich-media content live and in real-time from
                     the source.</p>
             </div>
+            <div class="">
+                <picture>
+                    <source type="image/webp" srcset="/assets/project/engage/wires.webp">
+                    <source type="image/png" srcset="/assets/project/engage/wires.png">
+                    <img src="/assets/project/engage/wires.webp" alt="Figma mobile-first wireframes." draggable="false" width="1600"
+                        height="800">
+                </picture>
+            </div>
         </section>
 
         <section id="pwa" class="container py-6 px-4">
@@ -98,6 +114,14 @@
                     React-Native and StoryBook to create a 1:1 mirror of my Design System. These components were
                     engineered from the ground-up to be the foundational building blocks that would revamp the entire
                     Engage product as well as Scribblelive's SaaS suite ambitions.</p>
+            </div>
+            <div class="">
+                <picture>
+                    <source type="image/webp" srcset="/assets/project/engage/m_cs1.webp">
+                    <source type="image/png" srcset="/assets/project/engage/m_cs1.png">
+                    <img src="/assets/project/engage/m_cs1.webp" alt="Figma mobile-first wireframes." draggable="false" width="2000"
+                        height="1040">
+                </picture>
             </div>
         </section>
 
@@ -111,6 +135,14 @@
                     micro-interactions, and dynamic workflows. Validation was done in-house with clients and via remote
                     tools like usertesting.com.</p>
             </div>
+            <div class="">
+                <picture>
+                    <source type="image/webp" srcset="/assets/project/engage/prototype.webp">
+                    <source type="image/png" srcset="/assets/project/engage/prototype.png">
+                    <img src="/assets/project/engage/prototype.webp" alt="Figma mobile-first wireframes." draggable="false" width="1600"
+                        height="800">
+                </picture>
+            </div>
         </section>
 
         <section id="clients" class="container py-6 px-4">
@@ -122,6 +154,14 @@
                     created a continuous stream of unique feature requests from clients like DELL EMC and Redbull. One
                     of Dell's requests (shown below) was to create a new modular and embeddable experience linking live
                     streams with Engage's social media integrations.</p>
+            </div>
+            <div class="">
+                <picture>
+                    <source type="image/webp" srcset="/assets/project/engage/engage-new_ui.webp">
+                    <source type="image/png" srcset="/assets/project/engage/engage-new_ui.png">
+                    <img src="/assets/project/engage/engage-new_ui.webp" alt="Figma mobile-first wireframes." draggable="false" width="2000"
+                        height="1040">
+                </picture>
             </div>
         </section>
 
@@ -138,6 +178,14 @@
                     2.1 accessibility guidelines, and match the latest UIs of the social media platforms. Custom modules
                     for video and editorial content were also designed and developed to fulfill requests from the
                     company's media clients.</p>
+            </div>
+            <div class="">
+                <picture>
+                    <source type="image/webp" srcset="/assets/project/engage/m_cs1.webp">
+                    <source type="image/png" srcset="/assets/project/engage/m_cs1.png">
+                    <img src="/assets/project/engage/m_cs1.webp" alt="Figma mobile-first wireframes." draggable="false" width="2000"
+                        height="1040">
+                </picture>
             </div>
         </section>
         <Footer />

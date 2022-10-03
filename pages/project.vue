@@ -138,8 +138,8 @@
             <div class="">
                 <picture>
                     <source type="image/webp" srcset="/assets/project/engage/prototype.webp">
-                    <source type="image/png" srcset="/assets/project/engage/prototype.png">
-                    <img src="/assets/project/engage/prototype.webp" alt="Figma mobile-first wireframes." draggable="false" width="1600"
+                    <source type="image/png" srcset="/assets/project/engage/prototype.jpg">
+                    <img src="/assets/project/engage/prototype.webp" alt="Figma prototype usability testing session photo." draggable="false" width="1600"
                         height="800">
                 </picture>
             </div>

@@ -165,11 +165,11 @@
             </div>
         </section>
 
-        <section id="clients" class="container py-6 px-4">
+        <section id="social" class="container py-6 px-4">
             <div class="content">
                 <h1 class="title has-text-white">Social Media Components</h1>
             </div>
-            <div class="social">
+            <div class="content">
                 <p class="is-size-5 has-text-weight-normal has-text-grey-light">One of Engage's core features is the
                     ability to add, curate, and moderate multiple social media sources into a single feed known as a
                     'vertical'. The app achieved this by recreating the layouts and populating the content with cached

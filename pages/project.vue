@@ -159,8 +159,8 @@
                 <picture>
                     <source type="image/webp" srcset="/assets/project/engage/engage-new_ui.webp">
                     <source type="image/png" srcset="/assets/project/engage/engage-new_ui.jpg">
-                    <img src="/assets/project/engage/engage-new_ui.webp" alt="Figma mobile-first wireframes." draggable="false" width="2000"
-                        height="1040">
+                    <img src="/assets/project/engage/engage-new_ui.webp" alt="Figma mobile-first wireframes." draggable="false" width="1920"
+                        height="1080">
                 </picture>
             </div>
         </section>
@@ -181,10 +181,10 @@
             </div>
             <div class="">
                 <picture>
-                    <source type="image/webp" srcset="/assets/project/engage/m_cs1.webp">
-                    <source type="image/png" srcset="/assets/project/engage/m_cs1.png">
-                    <img src="/assets/project/engage/m_cs1.webp" alt="Figma mobile-first wireframes." draggable="false" width="2000"
-                        height="1040">
+                    <source type="image/webp" srcset="/assets/project/engage/spec.webp">
+                    <source type="image/png" srcset="/assets/project/engage/spec.png">
+                    <img src="/assets/project/engage/spec.webp" alt="Spec examples for social media components." draggable="false" width="1600"
+                        height="840">
                 </picture>
             </div>
         </section>

@@ -36,7 +36,7 @@
                     <source type="image/webp" srcset="/assets/project/engage/engage.webp">
                     <source type="image/png" srcset="/assets/project/engage/engage.png">
                     <img src="/assets/project/engage/engage.webp" alt="Native app design examples." draggable="false" width="1920"
-                        height="1080" loading="lazy">
+                        height="1080">
                 </picture>
             </div>
         </section>

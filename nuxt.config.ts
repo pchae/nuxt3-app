@@ -14,6 +14,17 @@ export default defineNuxtConfig({
         },
 
         script: [],
+        link: [
+            { 
+                href: "https://fonts.googleapis.com",
+                rel: "preconnect"
+            },
+            {
+                href: "https://fonts.gstatic.com",
+                rel: "preconnect",
+                crossorigin: true
+            }
+        ]
     },
 
     css: ["assets/styles/main.scss"],
@@ -29,6 +40,6 @@ export default defineNuxtConfig({
     modules: [
         // comment
         'nuxt-purgecss',
-        
+
     ]
 })

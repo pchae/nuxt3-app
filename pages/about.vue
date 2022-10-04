@@ -4,6 +4,7 @@
         <Title>Phil Choi - About</Title>
         <Meta name="description" content="About Phil Choi, Product Designer based in Toronto" />
     </Head>
+
     <Nav />
 
     <section id="bio" class="container is-widescreen py-6 px-4">
@@ -43,6 +44,7 @@
     <Contact />
 
     <Footer />
+
 </template>
 
 

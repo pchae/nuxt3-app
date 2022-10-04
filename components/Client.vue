@@ -146,7 +146,14 @@
     </section>
 </template>
 
-<script>
+<script lang="ts">
+    import { useClientStore } from "~/store/client";
+
+    export default {
+        setup() {
+            const ClientStore = useClientStore()
+        }
+    }
 </script>
 
 <style lang="scss" scoped>

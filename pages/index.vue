@@ -1,16 +1,17 @@
 <template>
+    <div>
+        <Head>
+            <Title>Phil Choi - Product Designer</Title>
+            <Meta name="description" content="Phil Choi - Product Design portfolio"/>
+        </Head>
 
-    <Head>
-        <Title>Phil Choi - Product Designer</Title>
-        <Meta name="description" content="Phil Choi - Product Design portfolio" />
-    </Head>
+        <Nav />
 
-    <Nav />
+        <Hero />
 
-    <Hero />
+        <Footer />
 
-    <Footer />
-
+    </div>
 </template>
 
 
@@ -19,5 +20,4 @@
 
 
 <style>
-
 </style>

@@ -4,7 +4,7 @@
             <div class="level-left">
                 <div class="copyright pl-2">
                     <p class="">
-                        <strong class="has-text-white">&#169; 2014-2022 Phil Choi.</strong>
+                        <strong class="has-text-white">&#169; 2014-2022</strong>
                     </p>
                 </div>
             </div>

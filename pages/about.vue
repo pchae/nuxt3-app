@@ -22,17 +22,17 @@
             <div class="content">
                 <p class="is-size-5 has-text-weight-normal has-text-grey-light">Over the past decade I've designed and
                     built solutions for North American digital agencies, brands, startups, FinTech, and Software as a
-                    Service platforms. My Design process incorporates <a
-                        href="https://www.ted.com/talks/david_kelley_human_centered_design" rel="noreferrer"
-                        target="_blank">Human-centered design principles</a>, the <a href="https://agilemanifesto.org/"
-                        rel="noreferrer" target="_blank">Agile Manifesto</a>, Diversity & Inclusion for all, scalable
-                    Design systems, <a href="https://www.goodreads.com/en/book/show/29939161-radical-candor"
-                        rel="noreferrer" target="_blank">Radical Candor</a>, and <a
-                        href="https://www.forbes.com/sites/victorlipman/2014/10/15/phil-jackson-brings-ny-knicks-mindful-management/"
-                        rel="noreferrer" target="_blank">Mindful Management</a> practices. As a person with an
+                    Service platforms. My Design process incorporates <NuxtLink
+                        to="https://www.ted.com/talks/david_kelley_human_centered_design" rel="noreferrer"
+                        target="_blank">Human-centered design principles</NuxtLink>, the <NuxtLink to="https://agilemanifesto.org/"
+                        rel="noreferrer" target="_blank">Agile Manifesto</NuxtLink>, Diversity & Inclusion for all, scalable
+                    Design systems, <NuxtLink to="https://www.goodreads.com/en/book/show/29939161-radical-candor"
+                        rel="noreferrer" target="_blank">Radical Candor</NuxtLink>, and <NuxtLink
+                        to="https://www.forbes.com/sites/victorlipman/2014/10/15/phil-jackson-brings-ny-knicks-mindful-management/"
+                        rel="noreferrer" target="_blank">Mindful Management</NuxtLink> practices. As a person with an
                     'Invisible disability' of partial vision loss, I strongly advocate UX for the differently-abled and
-                    <a href="https://www.w3.org/WAI/business-case/" rel="noreferrer" target="_blank">Accessibility for
-                        All</a>.</p>
+                    <NuxtLink to="https://www.w3.org/WAI/business-case/" rel="noreferrer" target="_blank">Accessibility for
+                        All</NuxtLink>.</p>
             </div>
             <div class="content">
                 <p class="is-size-5 has-text-weight-normal has-text-grey-light">Platforms I've designed for include:

@@ -64,7 +64,7 @@
     </section>
 </template>
 
-<script lang="ts">
+<script>
 // Should create a Pinia store to call in projects
 </script>
 

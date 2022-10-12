@@ -9,7 +9,7 @@
                 <div class="columns is-mobile is-variable is-1-mobile">
                     <div class="column p-1">
                         <!-- // Replace router link -->
-                        <NuxtLink to="/project">
+                        <NuxtLink to="/project" active-class="active">
                             <figure class="image container">
                                 <picture>
                                     <source type="image/webp" srcset="/assets/thumbs/engage.webp">
@@ -26,7 +26,7 @@
 
                     <div class="column p-1">
                         <!-- // Replace router link -->
-                        <NuxtLink to="/tos">
+                        <NuxtLink to="/tos" active-class="active">
                             <figure class="image container">
                                 <picture>
                                     <source type="image/webp" srcset="/assets/thumbs/spc.webp">
@@ -47,7 +47,7 @@
                 <div class="columns is-mobile is-variable is-1-mobile">
                     <div class="column p-1">
                         <!-- // Replace router link -->
-                        <NuxtLink to="/privacy">
+                        <NuxtLink to="/privacy" active-class="active">
                             <figure class="image container">
                                 <picture>
                                     <source type="image/webp" srcset="/assets/thumbs/pbs.webp">
@@ -64,7 +64,7 @@
 
                     <div class="column p-1">
                         <!-- // Replace router link -->
-                        <NuxtLink to="/tos">
+                        <NuxtLink to="/tos" active-class="active">
                             <figure class="image container">
                                 <img src="/assets/thumbs/ds.jpg" alt="Design Systems" draggable="false" width="800"
                                     height="600" loading="lazy">

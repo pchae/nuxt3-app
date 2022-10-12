@@ -6,7 +6,8 @@
           <h2 class=""><strong>PC</strong></h2>
         </NuxtLink>
 
-        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample" @click="toggleAction">
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample"
+          @click="toggleAction">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
@@ -16,12 +17,16 @@
       <div id="navbarBasic" class="navbar-end">
 
         <div class="navbar-menu">
-          <NuxtLink to="/" class="navbar-item">
-            Work
-          </NuxtLink>
-          <NuxtLink to="/about" class="navbar-item">
-            About
-          </NuxtLink>
+          <div class="navbar-item">
+            <NuxtLink to="/" active-class="active">
+              Work
+            </NuxtLink>
+          </div>
+          <div class="navbar-item">
+            <NuxtLink to="/about" active-class="active">
+              About
+            </NuxtLink>
+          </div>
         </div>
 
       </div>
@@ -35,7 +40,8 @@
           <h2><strong>PC</strong></h2>
         </NuxtLink>
 
-        <a role="button" class="navbar-burger is-active" aria-label="menu" aria-expanded="true" data-target="navbarBasicExample" @click="toggleAction">
+        <a role="button" class="navbar-burger is-active" aria-label="menu" aria-expanded="true"
+          data-target="navbarBasicExample" @click="toggleAction">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
@@ -97,8 +103,10 @@ export default {
 .navbar {
   padding: 0 .75rem;
 }
+
 .navbar-item {
   color: $blue;
+
   &:hover {
     background: none;
     color: $red;

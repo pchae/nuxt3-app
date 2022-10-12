@@ -32,7 +32,7 @@
 @import '~/assets/styles/_variables.scss';
 
 .footer {
-    padding: 3rem 1rem;
+    padding: 3rem 0.75rem;
 }
 
 .navbar-item {

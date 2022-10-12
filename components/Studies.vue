@@ -47,7 +47,7 @@
                 <div class="columns is-mobile is-variable is-1-mobile">
                     <div class="column p-1">
                         <!-- // Replace router link -->
-                        <NuxtLink to="/engage">
+                        <NuxtLink to="/privacy">
                             <figure class="image container">
                                 <picture>
                                     <source type="image/webp" srcset="/assets/thumbs/pbs.webp">

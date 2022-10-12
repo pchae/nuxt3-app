@@ -49,33 +49,37 @@
       </div>
     </nav>
 
-    <div class="columns">
-      <div class="column">
-        <div class="navbar-item">
-          <NuxtLink to="/" active-class="active">
-            <h2 class="is-size-3-tablet is-size-4-mobile">Work</h2>
-          </NuxtLink>
-        </div>
+    <section class="hero is-fullheight">
+      <div class="hero-body">
+      <div class="columns is-vcentered">
+        <div class="column">
+          <div class="navbar-item">
+            <NuxtLink to="/" active-class="active">
+              <h2 class="is-size-3-tablet is-size-4-mobile">Work</h2>
+            </NuxtLink>
+          </div>
 
-        <div class="navbar-item">
-          <NuxtLink to="/about" active-class="active">
-            <h2 class="is-size-3-tablet is-size-4-mobile">About</h2>
-          </NuxtLink>
-        </div>
+          <div class="navbar-item">
+            <NuxtLink to="/about" active-class="active">
+              <h2 class="is-size-3-tablet is-size-4-mobile">About</h2>
+            </NuxtLink>
+          </div>
 
-        <div class="navbar-item">
-          <NuxtLink to="/tos" active-class="active">
-            <h2 class="is-size-3-tablet is-size-4-mobile">Terms of Service</h2>
-          </NuxtLink>
-        </div>
+          <div class="navbar-item">
+            <NuxtLink to="/tos" active-class="active">
+              <h2 class="is-size-3-tablet is-size-4-mobile">Terms of Service</h2>
+            </NuxtLink>
+          </div>
 
-        <div class="navbar-item">
-          <NuxtLink to="/privacy" active-class="active">
-            <h2 class="is-size-3-tablet is-size-4-mobile">Privacy Policy</h2>
-          </NuxtLink>
+          <div class="navbar-item">
+            <NuxtLink to="/privacy" active-class="active">
+              <h2 class="is-size-3-tablet is-size-4-mobile">Privacy Policy</h2>
+            </NuxtLink>
+          </div>
         </div>
       </div>
-    </div>
+      </div>
+    </section>
 
   </div>
 </template>
@@ -127,6 +131,5 @@ export default {
 
 .active>h2 {
   color: $red;
-  border-bottom: 1px solid;
 }
 </style>

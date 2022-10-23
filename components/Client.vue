@@ -6,7 +6,7 @@
 
         <div id="grid" class="is-flex is-flex-wrap-wrap">
             <div class="customClass" v-for="item in clientStore.clientJson.clients" :key="item.id">
-                <figure class="image container">
+                <figure class="image is-128x128">
                     <img :src="item.imgSrc" :alt="item.imgAlt">
                 </figure>
             </div>
@@ -36,7 +36,6 @@ export default {
     justify-content: center;
     position: relative;
     width: 25%;
-    height: 10rem;
     flex-shrink: 0;
     padding: 0 2rem;
 }

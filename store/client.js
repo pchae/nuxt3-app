@@ -9,8 +9,7 @@ export const useClientStore = defineStore({
             clientJson
         }
     },
-    getters: {
-//        clients: state => state.clientList
-    },
+    getters: {},
+
     actions: {}
 })

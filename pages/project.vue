@@ -7,7 +7,7 @@
         </Head>
         <Nav />
 
-        <section id="intro" class="container is-widescreen py-6 px-4">
+        <section id="intro" class="container py-6 px-4">
             <div class="content is-medium">
                 <h1 class="title has-text-white">Engage: Content Studio</h1>
                 <p class="subtitle has-text-grey-light">Modernizing social content for
@@ -31,13 +31,15 @@
                     buffer that allowed us to meet the business demands of simultaneously overhauling the user
                     experiences of multiple SaaS products while continuing to add value to their legacy versions.</p>
             </div>
-            <div class="">
+            <div class="content">
                 <picture>
                     <source type="image/webp" srcset="/assets/project/engage/engage.webp">
                     <source type="image/png" srcset="/assets/project/engage/engage.png">
                     <img src="/assets/project/engage/engage.webp" alt="Native app design examples." draggable="false"
                         width="1920" height="1080">
                 </picture>
+            </div>
+            <div class="content">
                 <video width="960" height="720" autoplay muted loop controls>
                     <source src="/assets/project/engage/tcode.mp4" type="video/mp4">
                     Your browser does not support the video tag.

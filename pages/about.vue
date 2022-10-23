@@ -8,7 +8,7 @@
 
         <Nav />
 
-        <section id="bio" class="container is-widescreen py-6 px-4">
+        <section id="bio" class="container py-6 px-4">
             <div class="content is-medium">
                 <h1 class="title has-text-white">My focus is on art, design, and technology as well as when, where, and
                     how they affect everyday life.</h1>

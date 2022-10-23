@@ -8,7 +8,7 @@
 
     <Nav />
 
-    <section id="legal" class="container is-widescreen py-6 px-4">
+    <section id="legal" class="container py-6 px-4">
       <div class="content is-medium">
         <h1 class="title has-text-white">Privacy Policy</h1>
         <p class="subtitle has-text-grey-light">Last updated: Jan 25, 2022</p>
@@ -47,20 +47,20 @@
 
         <ol class="is-lower-alpha">
           <li>
-            <p class="is-size-5 has-text-grey-light ">
+            <p class="is-size-5 has-text-grey-light">
               Information You Provide Us: Name, mailing address, phone number, email address, contact preferences,
               device identifiers, IP address, location information, credit card information, and profile information
               where the contact is via social media.
             </p>
           </li>
           <li>
-            <p class="is-size-5 has-text-grey-light ">
+            <p class="is-size-5 has-text-grey-light">
               Information We Collect from Users of our Services: Name, mailing address, Phone number, Email address,
               Contact preferences, Device identifiers, IP address, and location information.
             </p>
           </li>
           <li>
-            <p class="is-size-5 has-text-grey-light ">
+            <p class="is-size-5 has-text-grey-light">
               Information We Collect from Third Parties: We don't collect information from third parties.
             </p>
           </li>

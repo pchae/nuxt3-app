@@ -11,13 +11,13 @@
             <div class="level-left is-mobile">
                 <div class="level-item">
                     <NuxtLink to="https://linkedin.com/in/pchoi1/" target="_blank" rel="noopener" class="navbar-item">
-                        LinkedIn
+                        <strong>LinkedIn</strong>
                     </NuxtLink>
 
                 </div>
                 <div class="level-item">
                     <NuxtLink to="mailto:contact@philchoi.ca" target="_blank" rel="noopener" class="navbar-item">
-                        Email
+                        <strong>Email</strong>
                     </NuxtLink>
                 </div>
             </div>

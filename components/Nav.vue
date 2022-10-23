@@ -19,12 +19,12 @@
         <div class="navbar-menu">
           <div class="navbar-item">
             <NuxtLink to="/" active-class="active">
-              Work
+              <strong>Work</strong>
             </NuxtLink>
           </div>
           <div class="navbar-item">
             <NuxtLink to="/about" active-class="active">
-              About
+              <strong>About</strong>
             </NuxtLink>
           </div>
         </div>

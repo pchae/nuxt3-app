@@ -34,10 +34,13 @@ export default {
     display: flex;
     align-items: center;
     justify-content: center;
-    position: relative;
     width: 25%;
     flex-shrink: 0;
     padding: 0 2rem;
+
+    .image {
+        display: inherit;
+    }
 }
 
 

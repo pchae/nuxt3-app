@@ -2,82 +2,82 @@
   "clients": [
     {
       "id": 0,
-      "imgSrc": "assets/logo/cbc.svg",
-      "imgAlt": "CBC logo"
+      "imgSrc": "/assets/logo/cbc.svg",
+      "imgAlt": "Canadian Broadcasting Corporation logo"
     },
     {
       "id": 1,
-      "imgSrc": "assets/logo/usatoday.svg",
+      "imgSrc": "/assets/logo/usatoday.svg",
       "imgAlt": "USA Today logo"
     },
     {
       "id": 2,
-      "imgSrc": "assets/logo/reuters.svg",
+      "imgSrc": "/assets/logo/reuters.svg",
       "imgAlt": "Reuters logo"
     },
     {
       "id": 3,
-      "imgSrc": "assets/logo/bloomberg.svg",
+      "imgSrc": "/assets/logo/bloomberg.svg",
       "imgAlt": "Bloomberg logo"
     },
     {
       "id": 4,
-      "imgSrc": "assets/logo/starz.svg",
+      "imgSrc": "/assets/logo/starz.svg",
       "imgAlt": "Starz Play logo"
     },
     {
       "id": 5,
-      "imgSrc": "assets/logo/pbs.svg",
+      "imgSrc": "/assets/logo/pbs.svg",
       "imgAlt": "PBS logo"
     },
     {
       "id": 6,
-      "imgSrc": "assets/logo/spc.svg",
+      "imgSrc": "/assets/logo/spc.svg",
       "imgAlt": "SPC logo"
     },
     {
       "id": 7,
-      "imgSrc": "assets/logo/redbull.svg",
+      "imgSrc": "/assets/logo/redbull.svg",
       "imgAlt": "Redbull logo"
     },
     {
       "id": 8,
-      "imgSrc": "assets/logo/latam.svg",
+      "imgSrc": "/assets/logo/latam.svg",
       "imgAlt": "LATAM logo"
     },
     {
       "id": 9,
-      "imgSrc": "assets/logo/avianca.svg",
+      "imgSrc": "/assets/logo/avianca.svg",
       "imgAlt": "Avianca logo"
     },
     {
       "id": 10,
-      "imgSrc": "assets/logo/ogilvy.svg",
+      "imgSrc": "/assets/logo/ogilvy.svg",
       "imgAlt": "Ogilvy logo"
     },
     {
-      "id": 15,
-      "imgSrc": "assets/logo/plastic.svg",
+      "id": 11,
+      "imgSrc": "/assets/logo/plastic.svg",
       "imgAlt": "plastic mobile logo"
     },
     {
       "id": 12,
-      "imgSrc": "assets/logo/samsung.svg",
+      "imgSrc": "/assets/logo/samsung.svg",
       "imgAlt": "Samsung logo"
     },
     {
       "id": 13,
-      "imgSrc": "assets/logo/dell.svg",
+      "imgSrc": "/assets/logo/dell.svg",
       "imgAlt": "Dell logo"
     },
     {
       "id": 14,
-      "imgSrc": "assets/logo/cisco.svg",
+      "imgSrc": "/assets/logo/cisco.svg",
       "imgAlt": "Cisco Systems logo"
     },
     {
       "id": 15,
-      "imgSrc": "assets/logo/microsoft.svg",
+      "imgSrc": "/assets/logo/microsoft.svg",
       "imgAlt": "Microsoft logo"
     }
   ]

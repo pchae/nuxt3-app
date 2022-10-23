@@ -1,7 +1,7 @@
 <template>
     <section id="cta" class=" mb-0">
         <div class="container py-6">
-            <div class="has-text-centered pb-4">
+            <div class="has-text-centered pb-6">
                 <h1 class="title has-text-white">Say Hello</h1>
             </div>
             <div class="level is-centered">

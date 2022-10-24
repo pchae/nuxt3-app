@@ -7,7 +7,7 @@
         <div id="grid" class="is-flex is-flex-wrap-wrap">
             <div class="customClass" v-for="item in clientStore.clientJson.clients" :key="item.id">
                 <figure class="image is-128x128">
-                    <img :src="item.imgSrc" :alt="item.imgAlt">
+                    <img :src="item.imgSrc" :alt="item.imgAlt" :width="item.width" :height="item.height">
                 </figure>
             </div>
         </div>

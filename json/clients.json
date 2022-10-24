@@ -3,82 +3,114 @@
     {
       "id": 0,
       "imgSrc": "/logo/cbc.svg",
-      "imgAlt": "Canadian Broadcasting Corporation logo"
+      "imgAlt": "Canadian Broadcasting Corporation logo",
+      "width": "256px",
+      "height": "256px"
     },
     {
       "id": 1,
       "imgSrc": "/logo/usatoday.svg",
-      "imgAlt": "USA Today logo"
+      "imgAlt": "USA Today logo",
+      "width": "256px",
+      "height": "256px"
     },
     {
       "id": 2,
       "imgSrc": "/logo/reuters.svg",
-      "imgAlt": "Reuters logo"
+      "imgAlt": "Reuters logo",
+      "width": "256px",
+      "height": "256px"
     },
     {
       "id": 3,
       "imgSrc": "/logo/bloomberg.svg",
-      "imgAlt": "Bloomberg logo"
+      "imgAlt": "Bloomberg logo",
+      "width": "256px",
+      "height": "256px"
     },
     {
       "id": 4,
       "imgSrc": "/logo/starz.svg",
-      "imgAlt": "Starz Play logo"
+      "imgAlt": "Starz Play logo",
+      "width": "256px",
+      "height": "256px"
     },
     {
       "id": 5,
       "imgSrc": "/logo/pbs.svg",
-      "imgAlt": "PBS logo"
+      "imgAlt": "PBS logo",
+      "width": "256px",
+      "height": "256px"
     },
     {
       "id": 6,
       "imgSrc": "/logo/spc.svg",
-      "imgAlt": "SPC logo"
+      "imgAlt": "SPC logo",
+      "width": "256px",
+      "height": "256px"
     },
     {
       "id": 7,
       "imgSrc": "/logo/redbull.svg",
-      "imgAlt": "Redbull logo"
+      "imgAlt": "Redbull logo",
+      "width": "256px",
+      "height": "256px"
     },
     {
       "id": 8,
       "imgSrc": "/logo/latam.svg",
-      "imgAlt": "LATAM logo"
+      "imgAlt": "LATAM logo",
+      "width": "256px",
+      "height": "256px"
     },
     {
       "id": 9,
       "imgSrc": "/logo/avianca.svg",
-      "imgAlt": "Avianca logo"
+      "imgAlt": "Avianca logo",
+      "width": "256px",
+      "height": "256px"
     },
     {
       "id": 10,
       "imgSrc": "/logo/ogilvy.svg",
-      "imgAlt": "Ogilvy logo"
+      "imgAlt": "Ogilvy logo",
+      "width": "256px",
+      "height": "256px"
     },
     {
       "id": 11,
       "imgSrc": "/logo/plastic.svg",
-      "imgAlt": "plastic mobile logo"
+      "imgAlt": "plastic mobile logo",
+      "width": "256px",
+      "height": "256px"
     },
     {
       "id": 12,
       "imgSrc": "/logo/samsung.svg",
-      "imgAlt": "Samsung logo"
+      "imgAlt": "Samsung logo",
+      "width": "256px",
+      "height": "256px"
     },
     {
       "id": 13,
       "imgSrc": "/logo/dell.svg",
-      "imgAlt": "Dell logo"
+      "imgAlt": "Dell logo",
+      "width": "256px",
+      "height": "256px"
     },
     {
       "id": 14,
       "imgSrc": "/logo/cisco.svg",
-      "imgAlt": "Cisco Systems logo"
+      "imgAlt": "Cisco Systems logo",
+      "width": "256px",
+      "height": "256px"
     },
     {
       "id": 15,
       "imgSrc": "/logo/microsoft.svg",
-      "imgAlt": "Microsoft logo"
+      "imgAlt": "Microsoft logo",
+      "width": "256px",
+      "height": "256px"
     }
   ]
 }

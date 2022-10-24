@@ -10,8 +10,9 @@
 
         <Hero />
 
-        <section class="hero has-background-primary">
+        <section id="engage" class="section is-medium has-background-black-ter">
             <div class="hero-body">
+                <div class="container">
                 <h1 class="title has-text-white">
                     Engage Content Studio
                 </h1>
@@ -20,6 +21,22 @@
                         <p><strong>View project</strong></p>
                     </button>
                 </NuxtLink>
+            </div>
+            </div>
+        </section>
+
+        <section id="c51" class="section is-medium has-background-grey-darker">
+            <div class="hero-body">
+                <div class="container">
+                <h1 class="title has-text-white">
+                    Starz Play
+                </h1>
+                <NuxtLink to="/privacy">
+                    <button class="button is-link is-medium">
+                        <p><strong>View project</strong></p>
+                    </button>
+                </NuxtLink>
+            </div>
             </div>
         </section>
 

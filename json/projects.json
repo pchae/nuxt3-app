@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "title": "Checkout 51",
+      "desc": "iOS, Android",
+      "to": "/checkout",
+      "imgSrc": "thumbs/c51.jpg",
+      "imgAlt": "Checkout 51 - Multiclaim",
+      "width": "800",
+      "height": "600"
+    },
+    {
+      "id": 1,
+      "title": "Engage: Content Studio",
+      "desc": "Mobile PWA, Enterprise SaaS",
+      "to": "/engage",
+      "imgSrc": "thumbs/engage.jpg",
+      "imgAlt": "Scribblelive Engage",
+      "width": "800",
+      "height": "600"
+    },
+    {
+      "id": 2,
+      "title": "Starz Play",
+      "desc": "Roku, Samsung SmartTV, Amazon FireTV",
+      "to": "/starz",
+      "imgSrc": "thumbs/starz.jpg",
+      "imgAlt": "Starz Play",
+      "width": "800",
+      "height": "600"
+    },
+    {
+      "id": 3,
+      "title": "Public Broadcasting Service",
+      "desc": "Microsoft Lumia & Surface",
+      "to": "/pbs",
+      "imgSrc": "thumbs/pbs.jpg",
+      "imgAlt": "Public Broadcasting Service",
+      "width": "800",
+      "height": "600"
+    },
+    {
+      "id": 4,
+      "title": "Pizza Pizza",
+      "desc": "iOS, Android",
+      "to": "/pizza",
+      "imgSrc": "thumbs/pizza.jpg",
+      "imgAlt": "Pizza Pizza",
+      "width": "800",
+      "height": "600"
+    },
+    {
+      "id": 5,
+      "title": "Student Price Card",
+      "desc": "iOS, Android",
+      "to": "/spc",
+      "imgSrc": "thumbs/spc.jpg",
+      "imgAlt": "Student Price Card",
+      "width": "800",
+      "height": "600"
+    }
+  ]
+}

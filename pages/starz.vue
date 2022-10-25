@@ -2,14 +2,14 @@
     <div class="">
 
         <Head>
-            <Title>Phil Choi - Starz Play & Encore</Title>
+            <Title>Phil Choi - Starz Play</Title>
             <Meta name="description" content="About Phil Choi, Product Designer based in Toronto" />
         </Head>
         <Nav />
 
         <section id="intro" class="container py-6 px-4">
             <div class="content is-medium">
-                <h1 class="title has-text-white">Starz Play & Encore</h1>
+                <h1 class="title has-text-white">Starz Play</h1>
                 <p class="subtitle has-text-grey-light">Redefining TV streaming experiences</p>
             </div>
         </section>

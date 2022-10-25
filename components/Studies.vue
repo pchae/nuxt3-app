@@ -81,7 +81,15 @@
 </template>
 
 <script>
-// Should create a Pinia store to call in projects
+    import { useProjectStore } from "~/store/project";
+
+    export default {
+        setup() {
+            const projectStore = useProjectStore()
+
+            return { projectStore }
+        }
+    }
 </script>
 
 <style lang="scss" scoped>

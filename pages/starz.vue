@@ -58,7 +58,7 @@
             <div class="">
                 <picture>
                     <source type="image/webp" srcset="/assets/project/starz/wire-welcome.webp">
-                    <source type="image/png" srcset="/assets/project/starz/wire-welcome.png">
+                    <source type="image/png" srcset="/assets/project/starz/wire-welcome.jpg">
                     <img src="/assets/project/starz/wire-welcome.webp" alt="RENAME."
                         draggable="false" width="1920" height="1070" loading="lazy">
                 </picture>

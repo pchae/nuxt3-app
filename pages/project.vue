@@ -196,6 +196,8 @@
             </div>
         </section>
 
+        <ProjectList />
+
         <Studies />
 
         <Footer />

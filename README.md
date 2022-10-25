@@ -7,6 +7,7 @@
 * Nuxt 3
 * Pinia
 * Bulma.io
+* SCSS
 
 
 
@@ -23,13 +24,13 @@ This is an example of how to list things you need to use the software and how to
   npm install
   ```
 
-This is an example of how to list things you need to use the software and how to install them.
+This is an example of how to list things you need to run the repo in a development environment.
 * npm
   ```sh
   nuxt dev
   ```
 
-This is an example of how to list things you need to use the software and how to install them.
+This is an example of how to list things you need to use the software and how to build the project.
 * npm
   ```sh
   nuxt build

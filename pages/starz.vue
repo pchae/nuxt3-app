@@ -138,7 +138,7 @@
                         <picture>
                             <source type="image/webp" srcset="/assets/project/starz/ui-show-firetv.webp">
                             <source type="image/png" srcset="/assets/project/starz/ui-show-firetv.jpg">
-                            <img src="/assets/project/starz/ui-firetv.webp" alt="RENAME." draggable="false" width="1920"
+                            <img src="/assets/project/starz/ui-show-firetv.webp" alt="RENAME." draggable="false" width="1920"
                                 height="1080" loading="lazy">
                         </picture>
                     </div>

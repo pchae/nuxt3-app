@@ -2,7 +2,7 @@
     <div class="">
 
         <Head>
-            <Title>Phil Choi - Project page</Title>
+            <Title>Phil Choi - Project template</Title>
             <Meta name="description" content="About Phil Choi, Product Designer based in Toronto" />
         </Head>
         <Nav />

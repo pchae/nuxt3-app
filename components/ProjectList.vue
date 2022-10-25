@@ -16,11 +16,11 @@
                     </NuxtLink>
                 </figure>
                 <div class="media-content">
-                    <div class="content pr-4">
+                    <div class="pr-4">
                         <NuxtLink :to="item.to" active-class="active">
-                            <h3 class="subtitle has-text-weight-bold has-text-white">{{ item.title }}</h3>
+                            <h1 class="is-size-4 has-text-weight-bold">{{ item.title }}</h1>
                         </NuxtLink>
-                        <p class="">{{ item.desc }}</p>
+                        <p class="is-family-code has-text-weight-bold">{{ item.desc }}</p>
                     </div>
                 </div>
             </article>

@@ -31,7 +31,7 @@
                 <h1 class="title has-text-white">
                     Starz Play
                 </h1>
-                <NuxtLink to="/privacy">
+                <NuxtLink to="/starz">
                     <button class="button is-link is-medium">
                         <p><strong>View project</strong></p>
                     </button>

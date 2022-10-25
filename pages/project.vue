@@ -9,7 +9,7 @@
 
         <section id="intro" class="container py-6 px-4">
             <div class="content is-medium">
-                <h1 class="title has-text-white">Engage: Content Studio</h1>
+                <h1 class="title has-text-white">Project Template</h1>
                 <p class="subtitle has-text-grey-light">Modernizing social content for
                     Enterprise SaaS</p>
             </div>
@@ -197,8 +197,6 @@
         </section>
 
         <ProjectList />
-
-        <Studies />
 
         <Footer />
 

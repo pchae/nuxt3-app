@@ -33,12 +33,6 @@
                         width="1920" height="1080">
                 </picture>
             </div>
-            <div class="content">
-                <video width="960" height="720" autoplay muted loop controls>
-                    <source src="/assets/project/engage/tcode.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>
-            </div>
         </section>
 
         <section id="objectives" class="container py-6 px-4">
@@ -55,13 +49,61 @@
                     baked in, it also facilitated a quick turn-around time for creating production-ready UI elements.
                 </p>
             </div>
-            <div class="">
-                <picture>
-                    <source type="image/webp" srcset="/assets/project/starz/wire-welcome.webp">
-                    <source type="image/png" srcset="/assets/project/starz/wire-welcome.jpg">
-                    <img src="/assets/project/starz/wire-welcome.webp" alt="RENAME."
-                        draggable="false" width="1920" height="1070" loading="lazy">
-                </picture>
+
+            <div class="columns">
+                <div id="col1" class="column">
+                    <div id="" class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/starz/wire-welcome.webp">
+                            <source type="image/png" srcset="/assets/project/starz/wire-welcome.jpg">
+                            <img src="/assets/project/starz/wire-welcome.webp" alt="RENAME." draggable="false"
+                                width="1920" height="1070" loading="lazy">
+                        </picture>
+                    </div>
+                    <div id="" class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/starz/wire-feature-roku.webp">
+                            <source type="image/png" srcset="/assets/project/starz/wire-feature-roku.jpg">
+                            <img src="/assets/project/starz/wire-feature-roku.webp" alt="RENAME." draggable="false"
+                                width="1920" height="1070" loading="lazy">
+                        </picture>
+                    </div>
+                    <div id="" class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/starz/wire-show-roku.webp">
+                            <source type="image/png" srcset="/assets/project/starz/wire-show-roku.jpg">
+                            <img src="/assets/project/starz/wire-show-roku.webp" alt="RENAME." draggable="false"
+                                width="1920" height="1070" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
+
+                <div id="col2" class="column">
+                    <div id="" class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/starz/wire-activate.webp">
+                            <source type="image/png" srcset="/assets/project/starz/wire-activate.jpg">
+                            <img src="/assets/project/starz/wire-activate.webp" alt="RENAME." draggable="false"
+                                width="1920" height="1070" loading="lazy">
+                        </picture>
+                    </div>
+                    <div id="" class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/starz/wire-feature-firetv.webp">
+                            <source type="image/png" srcset="/assets/project/starz/wire-feature-firetv.jpg">
+                            <img src="/assets/project/starz/wire-feature-firetv.webp" alt="RENAME." draggable="false"
+                                width="1920" height="1070" loading="lazy">
+                        </picture>
+                    </div>
+                    <div id="" class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/starz/wire-show-firetv.webp">
+                            <source type="image/png" srcset="/assets/project/starz/wire-show-firetv.jpg">
+                            <img src="/assets/project/starz/wire-show-firetv.webp" alt="RENAME." draggable="false"
+                                width="1920" height="1070" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
             </div>
         </section>
 
@@ -75,13 +117,59 @@
                     was also essential that we tried to capture the essence of going to a movie theatre while
                     incorporating Starz branding.</p>
             </div>
-            <div class="">
-                <picture>
-                    <source type="image/webp" srcset="/assets/project/starz/ui-feature-firetv.webp">
-                    <source type="image/png" srcset="/assets/project/starz/ui-feature-firetv.jpg">
-                    <img src="/assets/project/starz/ui-feature-firetv.webp" alt="RENAME."
-                        draggable="false" width="1920" height="1080" loading="lazy">
-                </picture>
+
+            <div class="columns">
+                <div id="col1" class="column">
+                    <div id="" class="media">
+                        <source type="image/webp" srcset="/assets/project/starz/ui-feature-roku.webp">
+                        <source type="image/png" srcset="/assets/project/starz/ui-feature-roku.jpg">
+                        <img src="/assets/project/starz/ui-feature-roku.webp" alt="RENAME." draggable="false"
+                            width="1920" height="1080" loading="lazy">
+                    </div>
+                    <div id="" class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/starz/ui-movie-roku.webp">
+                            <source type="image/png" srcset="/assets/project/starz/ui-movie-roku.jpg">
+                            <img src="/assets/project/starz/ui-movie-roku.webp" alt="RENAME." draggable="false"
+                                width="1920" height="1080" loading="lazy">
+                        </picture>
+                    </div>
+                    <div id="" class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/starz/ui-show-firetv.webp">
+                            <source type="image/png" srcset="/assets/project/starz/ui-show-firetv.jpg">
+                            <img src="/assets/project/starz/ui-firetv.webp" alt="RENAME." draggable="false" width="1920"
+                                height="1080" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
+
+                <div id="col2" class="column">
+                    <div id="" class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/starz/ui-feature-firetv.webp">
+                            <source type="image/png" srcset="/assets/project/starz/ui-feature-firetv.jpg">
+                            <img src="/assets/project/starz/ui-feature-firetv.webp" alt="RENAME." draggable="false"
+                                width="1920" height="1080" loading="lazy">
+                        </picture>
+                    </div>
+                    <div id="" class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/starz/ui-movie-firetv.webp">
+                            <source type="image/png" srcset="/assets/project/starz/ui-movie-firetv.jpg">
+                            <img src="/assets/project/starz/ui-movie-firetv.webp" alt="RENAME." draggable="false"
+                                width="1920" height="1080" loading="lazy">
+                        </picture>
+                    </div>
+                    <div id="" class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/starz/resume2.webp">
+                            <source type="image/png" srcset="/assets/project/starz/resume2.jpg">
+                            <img src="/assets/project/starz/resume2.webp" alt="RENAME." draggable="false" width="1920"
+                                height="1080" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
             </div>
         </section>
 
@@ -97,14 +185,53 @@
                     remaining time was used to create reusable components, add quality of life enhancements and
                     personalization elements.</p>
             </div>
-            <div class="">
-                <picture>
-                    <source type="image/webp" srcset="/assets/project/starz/resume.webp">
-                    <source type="image/png" srcset="/assets/project/starz/resume.jpg">
-                    <img src="/assets/project/starz/resume.webp" alt="RENAME." draggable="false"
-                        width="1920" height="1080" loading="lazy">
-                </picture>
+
+            <div class="columns">
+                <div id="col1" class="column">
+                    <div id="" class="media">
+                        <source type="image/webp" srcset="/assets/project/starz/ui-welcome_back-samsung.webp">
+                        <source type="image/png" srcset="/assets/project/starz/ui-welcome_back-samsung.jpg">
+                        <img src="/assets/project/starz/ui-welcome_back-samsung.webp" alt="RENAME." draggable="false" width="1920"
+                            height="1080" loading="lazy">
+                    </div>
+                    <div id="" class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/starz/ui-still_watch-samsung.webp">
+                            <source type="image/png" srcset="/assets/project/starz/ui-still_watch-samsung.jpg">
+                            <img src="/assets/project/starz/ui-still_watch-samsung.webp" alt="RENAME." draggable="false"
+                                width="1920" height="1080" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
+
+                <div id="col2" class="column">
+                    <div id="" class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/starz/ui-video_player.webp">
+                            <source type="image/png" srcset="/assets/project/starz/ui-video_player.jpg">
+                            <img src="/assets/project/starz/ui-video_player.webp" alt="RENAME." draggable="false"
+                                width="1920" height="1080" loading="lazy">
+                        </picture>
+                    </div>
+                    <div id="" class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/starz/resume2.webp">
+                            <source type="image/png" srcset="/assets/project/starz/resume2.jpg">
+                            <img src="/assets/project/starz/resume2.webp" alt="RENAME." draggable="false"
+                                width="1920" height="1080" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
             </div>
+
+            <div id="" class="media">
+                    <picture>
+                        <source type="image/webp" srcset="/assets/project/starz/mock-player.webp">
+                        <source type="image/png" srcset="/assets/project/starz/mock-player.jpg">
+                        <img src="/assets/project/starz/mock-player.webp" alt="RENAME." draggable="false" width="1920"
+                            height="1080" loading="lazy">
+                    </picture>
+                </div>
         </section>
 
 

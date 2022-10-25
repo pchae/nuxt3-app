@@ -1,7 +1,7 @@
 <template>
     <section id="work" class="container py-6 px-4">
         <div class="content has-text-centered mt-6 pb-4">
-            <h1 class="title has-text-white">Case Studies</h1>
+            <h1 class="title has-text-white has-text-left-mobile">Case Studies</h1>
         </div>
 
         <div id="grid" class="is-flex is-flex-wrap-wrap">
@@ -43,6 +43,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import '~/assets/styles/_variables.scss';
 .media {
     width: 100%;
 }
@@ -53,9 +54,13 @@ export default {
     border-top: 0
 }
 
-@media only screen and (min-width: 801px) {
+@media only screen and (min-width: 769px) {
     .media {
         width: 50%;
     }
+}
+
+.active>h1 {
+  color: $red;
 }
 </style>

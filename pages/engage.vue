@@ -39,12 +39,6 @@
                         width="1920" height="1080">
                 </picture>
             </div>
-            <div class="content">
-                <video width="960" height="720" autoplay muted loop controls>
-                    <source src="/assets/project/engage/tcode.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>
-            </div>
         </section>
 
         <section id="challenges" class="container py-6 px-4">

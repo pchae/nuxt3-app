@@ -2,7 +2,7 @@
 
 // Import a Google Font
 // Fix for flash of invisible text issue (FOIT)
-@import url('https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Public+Sans:400,700&display=swap');
 
 // Set your brand colors
 $purple: #8A4D76;
@@ -15,22 +15,25 @@ $blue: #58A6FF;
 $black-ter: #212121;
 $black: #000;
 
-// Update Bulma's global variables
-$family-sans-serif: "Nunito", Helvetica, sans-serif;
 $grey-dark: $brown;
 $grey-light: $beige-light;
 $primary: $blue;
 $link: $blue;
+$link-hover: $red;
+
+
+// Update Bulma's global variables
+$family-sans-serif: 'Public Sans', Helvetica, sans-serif;
+
 $widescreen-enabled: true;
-$fullhd-enabled: true;
+$fullhd-enabled: false;
+
 
 // Update some of Bulma's component variables
 $body-background-color: $black;
 $control-border-width: 2px;
 $input-border-color: transparent;
 $input-shadow: none;
-
-$link-hover: $red;
 
 
 

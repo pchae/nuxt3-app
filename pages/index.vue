@@ -16,7 +16,7 @@
                 <h1 class="title has-text-white">
                     Engage Content Studio
                 </h1>
-                <NuxtLink to="/project">
+                <NuxtLink to="/engage">
                     <button class="button is-link is-medium">
                         <p><strong>View project</strong></p>
                     </button>

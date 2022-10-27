@@ -5,60 +5,60 @@
       "title": "Checkout 51",
       "desc": "iOS, Android",
       "to": "/checkout",
-      "imgSrc": "thumbs/c51.jpg",
+      "imgSrc": "thumbs/c51_sm.png",
       "imgAlt": "Checkout 51 - Multiclaim",
-      "width": "800",
-      "height": "600"
+      "width": "256",
+      "height": "128"
     },
     {
       "id": 1,
       "title": "Engage: Content Studio",
       "desc": "Mobile PWA, Enterprise SaaS",
       "to": "/engage",
-      "imgSrc": "thumbs/engage.jpg",
+      "imgSrc": "thumbs/engage_sm.png",
       "imgAlt": "Scribblelive Engage",
-      "width": "800",
-      "height": "600"
+      "width": "256",
+      "height": "128"
     },
     {
       "id": 2,
       "title": "Starz Play",
       "desc": "Roku, Samsung SmartTV, Amazon FireTV",
       "to": "/starz",
-      "imgSrc": "thumbs/starz.jpg",
+      "imgSrc": "thumbs/starz_sm.png",
       "imgAlt": "Starz Play",
-      "width": "800",
-      "height": "600"
+      "width": "256",
+      "height": "128"
     },
     {
       "id": 3,
       "title": "Public Broadcasting Service",
       "desc": "Microsoft Lumia & Surface",
       "to": "/pbs",
-      "imgSrc": "thumbs/pbs.jpg",
+      "imgSrc": "thumbs/pbs_sm.png",
       "imgAlt": "Public Broadcasting Service",
-      "width": "800",
-      "height": "600"
+      "width": "256",
+      "height": "128"
     },
     {
       "id": 4,
       "title": "Pizza Pizza",
       "desc": "iOS, Android",
       "to": "/pizza",
-      "imgSrc": "thumbs/pizza.jpg",
+      "imgSrc": "thumbs/pizza_sm.png",
       "imgAlt": "Pizza Pizza",
-      "width": "800",
-      "height": "600"
+      "width": "256",
+      "height": "128"
     },
     {
       "id": 5,
       "title": "Student Price Card",
       "desc": "iOS, Android",
       "to": "/spc",
-      "imgSrc": "thumbs/spc.jpg",
+      "imgSrc": "thumbs/spc_sm.png",
       "imgAlt": "Student Price Card",
-      "width": "800",
-      "height": "600"
+      "width": "256",
+      "height": "128"
     }
   ]
 }

@@ -5,7 +5,7 @@
       "title": "Checkout 51",
       "desc": "iOS, Android",
       "to": "/checkout",
-      "imgSrc": "thumbs/c51_sm.png",
+      "imgSrc": "thumbs/c51_sm.webp",
       "imgAlt": "Checkout 51 - Multiclaim",
       "width": "256",
       "height": "128"
@@ -15,7 +15,7 @@
       "title": "Engage: Content Studio",
       "desc": "Mobile PWA, Enterprise SaaS",
       "to": "/engage",
-      "imgSrc": "thumbs/engage_sm.png",
+      "imgSrc": "thumbs/engage_sm.webp",
       "imgAlt": "Scribblelive Engage",
       "width": "256",
       "height": "128"
@@ -25,7 +25,7 @@
       "title": "Starz Play",
       "desc": "Roku, Samsung SmartTV, Amazon FireTV",
       "to": "/starz",
-      "imgSrc": "thumbs/starz_sm.png",
+      "imgSrc": "thumbs/starz_sm.webp",
       "imgAlt": "Starz Play",
       "width": "256",
       "height": "128"
@@ -35,7 +35,7 @@
       "title": "Public Broadcasting Service",
       "desc": "Microsoft Lumia & Surface",
       "to": "/pbs",
-      "imgSrc": "thumbs/pbs_sm.png",
+      "imgSrc": "thumbs/pbs_sm.webp",
       "imgAlt": "Public Broadcasting Service",
       "width": "256",
       "height": "128"
@@ -45,7 +45,7 @@
       "title": "Pizza Pizza",
       "desc": "iOS, Android",
       "to": "/pizza",
-      "imgSrc": "thumbs/pizza_sm.png",
+      "imgSrc": "thumbs/pizza_sm.webp",
       "imgAlt": "Pizza Pizza",
       "width": "256",
       "height": "128"
@@ -55,7 +55,7 @@
       "title": "Student Price Card",
       "desc": "iOS, Android",
       "to": "/spc",
-      "imgSrc": "thumbs/spc_sm.png",
+      "imgSrc": "thumbs/spc_sm.webp",
       "imgAlt": "Student Price Card",
       "width": "256",
       "height": "128"

@@ -115,13 +115,40 @@
                     engineered from the ground-up to be the foundational building blocks that would revamp the entire
                     Engage product as well as Scribblelive's SaaS suite ambitions.</p>
             </div>
-            <div class="">
-                <picture>
-                    <source type="image/webp" srcset="/assets/project/engage/m_cs1.webp">
-                    <source type="image/png" srcset="/assets/project/engage/m_cs1.png">
-                    <img src="/assets/project/engage/m_cs1.webp" alt="Figma mobile-first wireframes." draggable="false"
-                        width="2000" height="1040" loading="lazy">
-                </picture>
+            <div class="columns">
+                <div class="column">
+                    <div class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/engage/xr_stream.webp">
+                            <source type="image/png" srcset="/assets/project/engage/xr_stream.png">
+                            <img src="/assets/project/engage/xr_stream.webp"
+                                alt="Spec examples for social media components." draggable="false" width="524"
+                                height="1013" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/engage/xr_create.webp">
+                            <source type="image/png" srcset="/assets/project/engage/xr_create.png">
+                            <img src="/assets/project/engage/xr_create.webp"
+                                alt="Spec examples for social media components." draggable="false" width="524"
+                                height="1013" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/engage/xr_follow.webp">
+                            <source type="image/png" srcset="/assets/project/engage/xr_follow.png">
+                            <img src="/assets/project/engage/xr_follow.webp"
+                                alt="Spec examples for social media components." draggable="false" width="524"
+                                height="1013" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
             </div>
         </section>
 
@@ -180,13 +207,40 @@
                     for video and editorial content were also designed and developed to fulfill requests from the
                     company's media clients.</p>
             </div>
-            <div class="">
-                <picture>
-                    <source type="image/webp" srcset="/assets/project/engage/spec.webp">
-                    <source type="image/png" srcset="/assets/project/engage/spec.png">
-                    <img src="/assets/project/engage/spec.webp" alt="Spec examples for social media components."
-                        draggable="false" width="1600" height="840" loading="lazy">
-                </picture>
+            <div class="columns">
+                <div class="column">
+                    <div class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/engage/card_spec.webp">
+                            <source type="image/png" srcset="/assets/project/engage/card_spec.png">
+                            <img src="/assets/project/engage/card_spec.webp"
+                                alt="Spec examples for social media components." draggable="false" width="580"
+                                height="760" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/engage/card_tswift.webp">
+                            <source type="image/png" srcset="/assets/project/engage/card_tswift.png">
+                            <img src="/assets/project/engage/card_tswift.webp"
+                                alt="Spec examples for social media components." draggable="false" width="460"
+                                height="640" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="media">
+                        <picture>
+                            <source type="image/webp" srcset="/assets/project/engage/card_lena.webp">
+                            <source type="image/png" srcset="/assets/project/engage/card_lena.png">
+                            <img src="/assets/project/engage/card_lena.webp"
+                                alt="Spec examples for social media components." draggable="false" width="460"
+                                height="640" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
             </div>
         </section>
 

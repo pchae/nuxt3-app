@@ -27,7 +27,7 @@ This is an example of how to list things you need to use the software and how to
 This is an example of how to list things you need to run the repo in a development environment.
 * npm
   ```sh
-  npm run dev
+  nuxt dev
   ```
 
 This is an example of how to list things you need to use the software and how to build the project.

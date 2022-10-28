@@ -33,15 +33,15 @@
             </div>
             <div class="content">
                 <picture>
-                    <source type="image/webp" srcset="/assets/project/engage/engage.webp">
-                    <source type="image/png" srcset="/assets/project/engage/engage.png">
-                    <img src="/assets/project/engage/engage.webp" alt="Native app design examples." draggable="false"
+                    <source type="image/webp" srcset="~/assets/project/engage/engage.webp">
+                    <source type="image/png" srcset="~/assets/project/engage/engage.png">
+                    <img src="~/assets/project/engage/engage.webp" alt="Native app design examples." draggable="false"
                         width="1920" height="1080">
                 </picture>
             </div>
             <div class="content">
                 <video width="960" height="720" autoplay muted loop controls>
-                    <source src="/assets/project/engage/tcode.mp4" type="video/mp4">
+                    <source src="~/assets/project/engage/tcode.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
@@ -61,9 +61,9 @@
             </div>
             <div class="">
                 <picture>
-                    <source type="image/webp" srcset="/assets/project/engage/m_redesign.webp">
-                    <source type="image/png" srcset="/assets/project/engage/m_redesign.png">
-                    <img src="/assets/project/engage/m_redesign.webp" alt="Native app design examples."
+                    <source type="image/webp" srcset="~/assets/project/engage/m_redesign.webp">
+                    <source type="image/png" srcset="~/assets/project/engage/m_redesign.png">
+                    <img src="~/assets/project/engage/m_redesign.webp" alt="Native app design examples."
                         draggable="false" width="1600" height="1013" loading="lazy">
                 </picture>
             </div>
@@ -82,9 +82,9 @@
             </div>
             <div class="">
                 <picture>
-                    <source type="image/webp" srcset="/assets/project/engage/pendo.webp">
-                    <source type="image/png" srcset="/assets/project/engage/pendo.jpg">
-                    <img src="/assets/project/engage/pendo.webp" alt="Pendo.ai analytics tool screenshot."
+                    <source type="image/webp" srcset="~/assets/project/engage/pendo.webp">
+                    <source type="image/png" srcset="~/assets/project/engage/pendo.jpg">
+                    <img src="~/assets/project/engage/pendo.webp" alt="Pendo.ai analytics tool screenshot."
                         draggable="false" width="1600" height="960" loading="lazy">
                 </picture>
             </div>

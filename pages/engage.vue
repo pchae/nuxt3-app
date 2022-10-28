@@ -119,9 +119,9 @@
                 <div class="column">
                     <div class="media">
                         <picture>
-                            <source type="image/webp" srcset="assets/project/engage/xr_stream.webp">
-                            <source type="image/png" srcset="assets/project/engage/xr_stream.png">
-                            <img src="assets/project/engage/xr_stream.webp"
+                            <source type="image/webp" srcset="~/assets/project/engage/xr_stream.webp">
+                            <source type="image/png" srcset="~/assets/project/engage/xr_stream.png">
+                            <img src="~/assets/project/engage/xr_stream.webp"
                                 alt="Spec examples for social media components." draggable="false" width="524"
                                 height="1013" loading="lazy">
                         </picture>

@@ -36,7 +36,7 @@
 }
 
 .navbar-item {
-    color: $blue;
+    color: $navy;
 
     &:hover {
         background: none;

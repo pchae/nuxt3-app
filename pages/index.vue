@@ -13,7 +13,7 @@
         <section id="grid" class="container has-background-black">
             <div class="columns">
                 <div class="column">
-                    <div class="box has-background-black-ter">
+                    <div class="box has-background-black-bis">
                         <div class="media">
                             <picture>
                                 <source type="image/webp" srcset="~/assets/thumbs/engage.webp">
@@ -47,7 +47,7 @@
                         </NuxtLink>
                     </div>
 
-                    <div class="box has-background-black-ter">
+                    <div class="box has-background-black-bis">
                         <div class="media">
                             <picture>
                                 <source type="image/webp" srcset="~/assets/thumbs/pbs.webp">
@@ -79,7 +79,7 @@
                 </div>
 
                 <div class="column">
-                    <div class="box has-background-black-ter">
+                    <div class="box has-background-black-bis">
                         <div class="media">
                             <picture>
                                 <source type="image/webp" srcset="~/assets/thumbs/starz.webp">
@@ -113,7 +113,7 @@
                         </NuxtLink>
                     </div>
 
-                    <div class="box has-background-black-ter">
+                    <div class="box has-background-black-bis">
                         <div class="media">
                             <picture>
                                 <source type="image/webp" srcset="~/assets/thumbs/ds.webp">

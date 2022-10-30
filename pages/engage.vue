@@ -115,16 +115,19 @@
                     engineered from the ground-up to be the foundational building blocks that would revamp the entire
                     Engage product as well as Scribblelive's SaaS suite ambitions.</p>
             </div>
-            <div class="columns">
+            <div id="row-one" class="columns">
                 <div class="column">
                     <div class="media">
                         <picture>
                             <source type="image/webp" srcset="~/assets/project/engage/xr_stream.webp">
                             <source type="image/png" srcset="~/assets/project/engage/xr_stream.png">
                             <img src="~/assets/project/engage/xr_stream.webp"
-                                alt="Spec examples for social media components." draggable="false" width="524"
+                                alt="FILL IN ALT TEXT." draggable="false" width="524"
                                 height="1013" loading="lazy">
                         </picture>
+                    </div>
+                    <div class="block">
+                        Article compose Mobile UI.
                     </div>
                 </div>
                 <div class="column">
@@ -133,9 +136,12 @@
                             <source type="image/webp" srcset="~/assets/project/engage/xr_create.webp">
                             <source type="image/png" srcset="~/assets/project/engage/xr_create.png">
                             <img src="~/assets/project/engage/xr_create.webp"
-                                alt="Spec examples for social media components." draggable="false" width="524"
+                                alt="FILL IN ALT TEXT." draggable="false" width="524"
                                 height="1013" loading="lazy">
                         </picture>
+                    </div>
+                    <div class="block">
+                        Article compose Mobile UI.
                     </div>
                 </div>
                 <div class="column">
@@ -144,9 +150,57 @@
                             <source type="image/webp" srcset="~/assets/project/engage/xr_follow.webp">
                             <source type="image/png" srcset="~/assets/project/engage/xr_follow.png">
                             <img src="~/assets/project/engage/xr_follow.webp"
-                                alt="Spec examples for social media components." draggable="false" width="524"
+                                alt="FILL IN ALT TEXT." draggable="false" width="524"
                                 height="1013" loading="lazy">
                         </picture>
+                    </div>
+                    <div class="block">
+                        Article compose Mobile UI.
+                    </div>
+                </div>
+            </div>
+
+            <div id="row-two" class="columns">
+                <div class="column">
+                    <div class="media">
+                        <picture>
+                            <source type="image/webp" srcset="~/assets/project/engage/xr_moderate.webp">
+                            <source type="image/png" srcset="~/assets/project/engage/xr_moderate.png">
+                            <img src="~/assets/project/engage/xr_moderate.webp"
+                                alt="FILL IN ALT TEXT." draggable="false" width="524"
+                                height="1013" loading="lazy">
+                        </picture>
+                    </div>
+                    <div class="block">
+                        Automated moderation tool Mobile UI.
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="media">
+                        <picture>
+                            <source type="image/webp" srcset="~/assets/project/engage/xr_feed.webp">
+                            <source type="image/png" srcset="~/assets/project/engage/xr_feed.png">
+                            <img src="~/assets/project/engage/xr_feed.webp"
+                                alt="FILL IN ALT TEXT." draggable="false" width="524"
+                                height="1013" loading="lazy">
+                        </picture>
+                    </div>
+                    <div class="block">
+                        Social media feed 'vertical' Mobile UI.
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="media">
+                        <picture>
+                            <source type="image/webp" srcset="~/assets/project/engage/xr_compose.webp">
+                            <source type="image/png" srcset="~/assets/project/engage/xr_compose.png">
+                            <img src="~/assets/project/engage/xr_compose.webp"
+                                alt="FILL IN ALT TEXT." draggable="false" width="524"
+                                height="1013" loading="lazy">
+                        </picture>
+                    </div>
+                    <div class="block">
+                        Article compose Mobile UI.
                     </div>
                 </div>
             </div>
@@ -214,7 +268,7 @@
                             <source type="image/webp" srcset="~/assets/project/engage/card_spec.webp">
                             <source type="image/png" srcset="~/assets/project/engage/card_spec.png">
                             <img src="~/assets/project/engage/card_spec.webp"
-                                alt="Spec examples for social media components." draggable="false" width="580"
+                                alt="FILL IN ALT TEXT." draggable="false" width="580"
                                 height="760" loading="lazy">
                         </picture>
                     </div>
@@ -225,7 +279,7 @@
                             <source type="image/webp" srcset="~/assets/project/engage/card_tswift.webp">
                             <source type="image/png" srcset="~/assets/project/engage/card_tswift.png">
                             <img src="~/assets/project/engage/card_tswift.webp"
-                                alt="Spec examples for social media components." draggable="false" width="460"
+                                alt="FILL IN ALT TEXT." draggable="false" width="460"
                                 height="640" loading="lazy">
                         </picture>
                     </div>
@@ -236,7 +290,7 @@
                             <source type="image/webp" srcset="~/assets/project/engage/card_lena.webp">
                             <source type="image/png" srcset="~/assets/project/engage/card_lena.png">
                             <img src="~/assets/project/engage/card_lena.webp"
-                                alt="Spec examples for social media components." draggable="false" width="460"
+                                alt="FILL IN ALT TEXT." draggable="false" width="460"
                                 height="640" loading="lazy">
                         </picture>
                     </div>

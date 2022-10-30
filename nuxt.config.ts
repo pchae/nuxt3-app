@@ -22,7 +22,7 @@ export default defineNuxtConfig({
             {
                 href: "https://fonts.gstatic.com",
                 rel: "preconnect",
-                crossorigin: true
+                crossorigin: "anonymous"
             }
         ]
     },
@@ -37,6 +37,7 @@ export default defineNuxtConfig({
             },
         }
     },
+
     // Fix for Nuxt RC 9-11
     alias: {
         pinia: '/node_modules/@pinia/nuxt/node_modules/pinia/dist/pinia.mjs',

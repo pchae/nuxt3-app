@@ -127,7 +127,7 @@
                         </picture>
                     </div>
                     <div class="block">
-                        1. Active Stream list UI
+                        1. Active Stream list
                     </div>
                 </div>
                 <div class="column">
@@ -141,7 +141,7 @@
                         </picture>
                     </div>
                     <div class="block">
-                        2. Stream setup UI
+                        2. Stream setup
                     </div>
                 </div>
                 <div class="column">

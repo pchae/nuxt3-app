@@ -12,7 +12,7 @@
     },
     {
       "id": 1,
-      "title": "Engage: Content Studio",
+      "title": "Content Studio",
       "desc": "Mobile PWA, Enterprise SaaS",
       "to": "/engage",
       "imgSrc": "thumbs/engage_sm.webp",
@@ -23,7 +23,7 @@
     {
       "id": 2,
       "title": "Starz Play",
-      "desc": "Roku, Samsung SmartTV, Amazon FireTV",
+      "desc": "Roku, Samsung SmartTV, FireTV",
       "to": "/starz",
       "imgSrc": "thumbs/starz_sm.webp",
       "imgAlt": "Starz Play",
@@ -32,7 +32,7 @@
     },
     {
       "id": 3,
-      "title": "Public Broadcasting Service",
+      "title": "PBS",
       "desc": "Microsoft Lumia & Surface",
       "to": "/pbs",
       "imgSrc": "thumbs/pbs_sm.webp",

@@ -40,7 +40,7 @@
 
     &:hover {
         background: none;
-        color: $red;
+        color: $blue;
     }
 }
 

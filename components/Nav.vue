@@ -130,6 +130,6 @@ export default {
 }
 
 .active>h2 {
-  color: $red;
+  color: $blue;
 }
 </style>

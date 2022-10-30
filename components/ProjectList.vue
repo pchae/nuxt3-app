@@ -61,6 +61,6 @@ export default {
 }
 
 .active>h1 {
-  color: $red;
+  color: $blue;
 }
 </style>

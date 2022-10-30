@@ -70,7 +70,7 @@
                             </span>
                         </div>
 
-                        <NuxtLink to="/engage">
+                        <NuxtLink to="/pbs">
                             <button class="button is-link is-medium">
                                 <p><strong>View project</strong></p>
                             </button>
@@ -140,8 +140,8 @@
                             </span>
                         </div>
 
-                        <NuxtLink to="/project">
-                            <button class="button is-outlined is-link is-medium">
+                        <NuxtLink to="/designsystem">
+                            <button class="button is-link is-medium">
                                 <p><strong>Request Access</strong></p>
                             </button>
                         </NuxtLink>

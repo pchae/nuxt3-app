@@ -50,29 +50,13 @@
                 </p>
             </div>
 
-            <div class="columns">
+            <div id="row-one" class="columns">
                 <div id="col1" class="column">
                     <div id="" class="media">
                         <picture>
                             <source type="image/webp" srcset="~/assets/project/starz/wire-welcome.webp">
                             <source type="image/png" srcset="~/assets/project/starz/wire-welcome.jpg">
                             <img src="~/assets/project/starz/wire-welcome.webp" alt="RENAME." draggable="false"
-                                width="1920" height="1080" loading="lazy">
-                        </picture>
-                    </div>
-                    <div id="" class="media">
-                        <picture>
-                            <source type="image/webp" srcset="~/assets/project/starz/wire-feature-roku.webp">
-                            <source type="image/png" srcset="~/assets/project/starz/wire-feature-roku.jpg">
-                            <img src="~/assets/project/starz/wire-feature-roku.webp" alt="RENAME." draggable="false"
-                                width="1920" height="1080" loading="lazy">
-                        </picture>
-                    </div>
-                    <div id="" class="media">
-                        <picture>
-                            <source type="image/webp" srcset="~/assets/project/starz/wire-show-roku.webp">
-                            <source type="image/png" srcset="~/assets/project/starz/wire-show-roku.jpg">
-                            <img src="~/assets/project/starz/wire-show-roku.webp" alt="RENAME." draggable="false"
                                 width="1920" height="1080" loading="lazy">
                         </picture>
                     </div>
@@ -87,6 +71,22 @@
                                 width="1920" height="1080" loading="lazy">
                         </picture>
                     </div>
+                </div>
+            </div>
+
+            <div id="row-two" class="columns">
+                <div id="col1" class="column">
+                    <div id="" class="media">
+                        <picture>
+                            <source type="image/webp" srcset="~/assets/project/starz/wire-feature-roku.webp">
+                            <source type="image/png" srcset="~/assets/project/starz/wire-feature-roku.jpg">
+                            <img src="~/assets/project/starz/wire-feature-roku.webp" alt="RENAME." draggable="false"
+                                width="1920" height="1080" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
+
+                <div id="col2" class="column">
                     <div id="" class="media">
                         <picture>
                             <source type="image/webp" srcset="~/assets/project/starz/wire-feature-firetv.webp">
@@ -95,6 +95,22 @@
                                 width="1920" height="1080" loading="lazy">
                         </picture>
                     </div>
+                </div>
+            </div>
+
+            <div id="row-three" class="columns">
+                <div id="col1" class="column">
+                    <div id="" class="media">
+                        <picture>
+                            <source type="image/webp" srcset="~/assets/project/starz/wire-show-roku.webp">
+                            <source type="image/png" srcset="~/assets/project/starz/wire-show-roku.jpg">
+                            <img src="~/assets/project/starz/wire-show-roku.webp" alt="RENAME." draggable="false"
+                                width="1920" height="1080" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
+
+                <div id="col2" class="column">
                     <div id="" class="media">
                         <picture>
                             <source type="image/webp" srcset="~/assets/project/starz/wire-show-firetv.webp">

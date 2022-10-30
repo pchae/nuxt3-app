@@ -127,7 +127,7 @@
                         </picture>
                     </div>
                     <div class="block">
-                        Article compose Mobile UI.
+                        1. Active Stream list UI
                     </div>
                 </div>
                 <div class="column">
@@ -141,7 +141,7 @@
                         </picture>
                     </div>
                     <div class="block">
-                        Article compose Mobile UI.
+                        2. Stream setup UI
                     </div>
                 </div>
                 <div class="column">
@@ -155,7 +155,7 @@
                         </picture>
                     </div>
                     <div class="block">
-                        Article compose Mobile UI.
+                        3. Stream setup: Social accounts
                     </div>
                 </div>
             </div>
@@ -172,7 +172,7 @@
                         </picture>
                     </div>
                     <div class="block">
-                        Automated moderation tool Mobile UI.
+                        4. Stream setup: Automation tools
                     </div>
                 </div>
                 <div class="column">
@@ -186,7 +186,7 @@
                         </picture>
                     </div>
                     <div class="block">
-                        Social media feed 'vertical' Mobile UI.
+                        5. Main social media 'vertical' feed
                     </div>
                 </div>
                 <div class="column">
@@ -200,7 +200,7 @@
                         </picture>
                     </div>
                     <div class="block">
-                        Article compose Mobile UI.
+                        6. Article composition RTE
                     </div>
                 </div>
             </div>

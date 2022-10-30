@@ -83,7 +83,7 @@
                         <div class="media">
                             <picture>
                                 <source type="image/webp" srcset="~/assets/thumbs/starz.webp">
-                                <source type="image/png" srcset="~/assets/thumbs/starz.jpg">
+                                <source type="image/png" srcset="~/assets/thumbs/starz.png">
                                 <img src="~/assets/thumbs/starz.webp" alt="RENAME." draggable="false" width="1920"
                                     height="1080" loading="lazy">
                             </picture>

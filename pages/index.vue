@@ -161,9 +161,21 @@
 
 
 <style lang="scss" scoped>
-
+@import '~/assets/styles/_variables.scss';
 .tag:not(body).is-success {
     background-color: #1CD0A0;
-    color: #000;
+    color: $black;
+}
+
+.button.is-link {
+    color: $white;
+    background: $navy;
+    border-color: none;
+
+    &:hover {
+        color: $white;
+        background: $blue;
+        border-color: none;
+    }
 }
 </style>

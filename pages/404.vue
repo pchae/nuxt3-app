@@ -38,14 +38,14 @@
 @import '~/assets/styles/_variables.scss';
 
 .button.is-link.is-outlined {
-    color: $blue;
+    color: $navy;
     background: none;
-    border-color: $blue;
+    border-color: $navy;
 
     &:hover {
-        color: $red;
+        color: $blue;
         background: none;
-        border-color: $red;
+        border-color: $blue;
     }
 }
 </style>

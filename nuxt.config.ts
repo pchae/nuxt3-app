@@ -9,7 +9,7 @@ export default defineNuxtConfig({
         ],
 
         htmlAttrs: {
-            'lang': 'en',
+            lang: 'en',
             class: 'has-navbar-fixed-top',
         },
 
@@ -47,5 +47,9 @@ export default defineNuxtConfig({
         '@pinia/nuxt',
         'nuxt-purgecss',
 
-    ]
+    ],
+    // Enables Static site generation (SSG), use 'server' for Server-side rendering
+    target: 'static',
+    // Serverside rendering toggle
+    ssr: true,
 })

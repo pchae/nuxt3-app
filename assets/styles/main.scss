@@ -2,7 +2,8 @@
 
 // Import a Google Font
 // Fix for flash of invisible text issue (FOIT)
-@import url('https://fonts.googleapis.com/css?family=Public+Sans:400,700&display=swap');
+// @import url('https://fonts.googleapis.com/css?family=Public+Sans:400,700&display=swap');
+
 
 // Set your brand colors
 $purple: #6028CC;
@@ -26,7 +27,7 @@ $link-hover: $blue;
 
 
 // Update Bulma's global variables
-$family-sans-serif: 'Public Sans', Helvetica, sans-serif;
+$family-sans-serif: 'Poppins', Helvetica, sans-serif;
 
 $widescreen-enabled: true;
 $fullhd-enabled: false;
@@ -51,5 +52,7 @@ $input-shadow: none;
 // @import "../node_modules/bulma/sass/components/navbar.sass";
 // @import "../node_modules/bulma/sass/layout/hero.sass";
 // @import "../node_modules/bulma/sass/layout/section.sass";
+
+@import "../styles/font.scss";
 
 @import "~/node_modules/bulma/bulma.sass";

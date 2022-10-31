@@ -7,7 +7,7 @@
             <div class="level is-centered">
                 <div class="level-item mb-6">
                     <NuxtLink to="mailto:contact@philchoi.ca">
-                        <button class="button is-link is-medium is-outlined">
+                        <button class="button is-link is-medium">
                             <p><strong>Send an email</strong></p>
                         </button>
                     </NuxtLink>
@@ -21,4 +21,17 @@
 </script>
 
 <style lang="scss" scoped>
+@import '~/assets/styles/_variables.scss';
+
+.button.is-link {
+    color: $navy;
+    background: none;
+    border-color: $navy;
+
+    &:hover {
+        color: $blue;
+        background: none;
+        border-color: $blue;
+    }
+}
 </style>

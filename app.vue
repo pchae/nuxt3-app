@@ -3,7 +3,22 @@
 </template>
 
 <script setup>
+  const route = useRoute();
+  const firstVisit = ref(true);
 
+  watch(
+    route,
+    (n) => {
+      if (process.client) {
+        if (firstVisit.value) {
+          firstVisit.value = false;
+          return;
+        }
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      }
+    },
+    { deep: true, immediate: true }
+  );
 </script>
 
 <style>

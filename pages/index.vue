@@ -19,7 +19,7 @@
                                 <source type="image/webp" srcset="~/assets/thumbs/engage.webp">
                                 <source type="image/png" srcset="~/assets/thumbs/engage.jpg">
                                 <img src="~/assets/thumbs/engage.webp" alt="RENAME." draggable="false" width="1920"
-                                    height="1080" loading="lazy">
+                                    height="1080">
                             </picture>
                         </div>
                         <div class="pb-2">

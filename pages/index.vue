@@ -18,8 +18,8 @@
                             <picture>
                                 <source type="image/webp" srcset="~/assets/thumbs/engage.webp">
                                 <source type="image/png" srcset="~/assets/thumbs/engage.jpg">
-                                <img src="~/assets/thumbs/engage.webp" alt="RENAME." draggable="false" width="1920"
-                                    height="1080">
+                                <img src="~/assets/thumbs/engage.webp" alt="RENAME." draggable="false" width="800"
+                                    height="600">
                             </picture>
                         </div>
                         <div class="pb-2">
@@ -52,8 +52,8 @@
                             <picture>
                                 <source type="image/webp" srcset="~/assets/thumbs/pbs.webp">
                                 <source type="image/png" srcset="~/assets/thumbs/pbs.jpg">
-                                <img src="~/assets/thumbs/pbs.webp" alt="RENAME." draggable="false" width="1920"
-                                    height="1080" loading="lazy">
+                                <img src="~/assets/thumbs/pbs.webp" alt="RENAME." draggable="false" width="800"
+                                    height="600" loading="lazy">
                             </picture>
                         </div>
                         <div class="pb-2">
@@ -84,8 +84,8 @@
                             <picture>
                                 <source type="image/webp" srcset="~/assets/thumbs/starz.webp">
                                 <source type="image/png" srcset="~/assets/thumbs/starz.png">
-                                <img src="~/assets/thumbs/starz.webp" alt="RENAME." draggable="false" width="1920"
-                                    height="1080" loading="lazy">
+                                <img src="~/assets/thumbs/starz.webp" alt="RENAME." draggable="false" width="800"
+                                    height="600" loading="lazy">
                             </picture>
                         </div>
                         <div class="pb-2">
@@ -118,8 +118,8 @@
                             <picture>
                                 <source type="image/webp" srcset="~/assets/thumbs/ds.webp">
                                 <source type="image/png" srcset="~/assets/thumbs/ds.jpg">
-                                <img src="~/assets/thumbs/ds.webp" alt="RENAME." draggable="false" width="1920"
-                                    height="1080" loading="lazy">
+                                <img src="~/assets/thumbs/ds.webp" alt="RENAME." draggable="false" width="800"
+                                    height="600" loading="lazy">
                             </picture>
                         </div>
                         <div class="pb-2">

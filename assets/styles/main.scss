@@ -40,6 +40,12 @@ $input-border-color: transparent;
 $input-shadow: none;
 
 
+// body class applied when mobile menu is activ
+// document.body.classList.add("disableScroll")
+.disableScroll {
+    position: fixed;
+}
+
 
 
 // Import only what you need from Bulma

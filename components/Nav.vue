@@ -96,7 +96,13 @@ export default {
   methods: {
     toggleAction: function () {
       this.toggle = !this.toggle;
+      if (this.toggle) {
+        document.body.classList.add("disableScroll");
+      } else {
+        document.body.classList.remove("disableScroll");
+      }
     },
+    
   },
 };
 </script>
@@ -124,7 +130,7 @@ export default {
   height: 100%;
   width: 100%;
   background-color: $black;
-  overflow: visible;
+  overflow: hidden;
   opacity: 0.96;
   z-index: 1000;
 }
@@ -132,4 +138,5 @@ export default {
 .active>h2 {
   color: $blue;
 }
+
 </style>

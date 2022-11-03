@@ -97,14 +97,10 @@ export default {
     toggleAction: function () {
       this.toggle = !this.toggle;
       if (this.toggle) {
-          this.scrollTop = document.documentElement.scrollTop
-          document.body.style.position = 'fixed'
-          document.body.style.marginTop = -this.scrollTop + 'px'
-        } else {
-          document.body.style.marginTop = 0
-          document.body.style.position = 'relative'
-          document.documentElement.scrollTo(0, this.scrollTop)
-        }
+        document.body.classList.add("disableScroll");
+      } else {
+        document.body.classList.remove("disableScroll");
+      }
     },
     
   },

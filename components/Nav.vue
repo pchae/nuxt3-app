@@ -6,7 +6,7 @@
           <h2 class=""><strong>PC</strong></h2>
         </NuxtLink>
 
-        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample"
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasic"
           @click="toggleAction">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
@@ -41,7 +41,7 @@
         </NuxtLink>
 
         <a role="button" class="navbar-burger is-active" aria-label="menu" aria-expanded="true"
-          data-target="navbarBasicExample" @click="toggleAction">
+          data-target="navbarBasic" @click="toggleAction">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
@@ -130,9 +130,9 @@ export default {
   height: 100%;
   width: 100%;
   background-color: $black;
-  overflow: visible;
+  overflow-y: hidden;
   opacity: 0.96;
-  z-index: 1000;
+  z-index: 100;
 }
 
 .active>h2 {

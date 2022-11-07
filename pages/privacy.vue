@@ -8,7 +8,7 @@
 
     <Nav />
 
-    <section id="legal" class="container py-6 px-4">
+    <section id="legal" class="container mt-6 py-6 px-4">
       <div class="content is-medium">
         <h1 class="title has-text-white">Privacy Policy</h1>
         <p class="subtitle has-text-grey-light">Last updated: Jan 25, 2022</p>

@@ -1,5 +1,5 @@
 <template>
-  <section class="container py-6 px-4">
+  <section class="container mt-6 py-6 px-4">
     <div class="content is-medium">
       <h1 class="title has-text-white">
         Phil Choi is a Product Designer based in Toronto.

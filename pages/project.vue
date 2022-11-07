@@ -15,7 +15,7 @@
             </div>
         </section>
 
-        <section id="overview" class="container py-6 px-4">
+        <section id="overview" class="container mt-6 py-6 px-4">
             <div class="content">
                 <h1 class="title has-text-white">Overview</h1>
             </div>

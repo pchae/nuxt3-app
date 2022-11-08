@@ -64,18 +64,6 @@
                 <h2 class="is-size-3-tablet is-size-4-mobile has-text-weight-bold">About</h2>
               </NuxtLink>
             </div>
-
-            <div class="navbar-item">
-              <NuxtLink to="/tos" active-class="active">
-                <h2 class="is-size-3-tablet is-size-4-mobile has-text-weight-bold">Terms of Service</h2>
-              </NuxtLink>
-            </div>
-
-            <div class="navbar-item">
-              <NuxtLink to="/privacy" active-class="active">
-                <h2 class="is-size-3-tablet is-size-4-mobile has-text-weight-bold">Privacy Policy</h2>
-              </NuxtLink>
-            </div>
           </div>
         </div>
       </div>

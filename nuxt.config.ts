@@ -2,29 +2,20 @@ import { defineNuxtConfig } from 'nuxt'
 
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
-    meta: {
-        meta: [
-            { charset: 'utf-8' },
-            { name: "viewport", content: "width=device-width, initial-scale=1" },
-        ],
-
-        htmlAttrs: {
-            lang: 'en',
-            class: 'has-navbar-fixed-top',
-        },
-
-        script: [],
-        link: [
-            { 
-                href: "https://fonts.googleapis.com",
-                rel: "preconnect"
+    app: {
+        head: {
+            htmlAttrs: {
+                lang: 'en'
             },
-            {
-                href: "https://fonts.gstatic.com",
-                rel: "preconnect",
-                crossorigin: "anonymous"
-            }
-        ]
+            charset: 'utf-8',
+            viewport: "width=device-width, initial-scale=1",
+            title: 'Phil Choi',
+            meta: [
+                // <meta name="description" content="site description">
+                { name: 'description', content: 'Phil Choi Product Design portfolio' },
+                { name: 'keywords', content: 'Phil Choi, Phil, Choi, Product Design, Product, Design, UX, UI, Interaction, Mobile, Web, SaaS' }
+            ],
+        },
     },
 
     css: ["assets/styles/main.scss"],
@@ -49,7 +40,6 @@ export default defineNuxtConfig({
 
     ],
     // Enables Static site generation (SSG), use 'server' for Server-side rendering
-    target: 'static',
     // Serverside rendering toggle
     ssr: true,
 })

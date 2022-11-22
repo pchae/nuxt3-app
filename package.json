@@ -8,12 +8,12 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "3.0.0-rc.13",
+    "nuxt": "3.0.0",
     "nuxt-purgecss": "2.0.0",
     "sass": "1.56.1"
   },
   "dependencies": {
-    "@pinia/nuxt": "0.4.3",
+    "@pinia/nuxt": "0.4.4",
     "bulma": "0.9.4"
   }
 }

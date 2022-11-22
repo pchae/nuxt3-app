@@ -1,5 +1,3 @@
-import { defineNuxtConfig } from 'nuxt/config'
-
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
     app: {
@@ -18,7 +16,11 @@ export default defineNuxtConfig({
         },
     },
 
+    // Static site rendering
+    ssr: true,
+
     css: ["assets/styles/main.scss"],
+
     vite: {
         css: {
             preprocessorOptions: {
@@ -33,13 +35,10 @@ export default defineNuxtConfig({
     alias: {
         pinia: '/node_modules/@pinia/nuxt/node_modules/pinia/dist/pinia.mjs',
     },
+
     modules: [
-        // comment
         '@pinia/nuxt',
         'nuxt-purgecss',
 
     ],
-    // Enables Static site generation (SSG), use 'server' for Server-side rendering
-    // Serverside rendering toggle
-    ssr: true,
 })

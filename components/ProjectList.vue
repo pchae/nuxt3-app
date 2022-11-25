@@ -31,7 +31,7 @@
 </template>
 
 <script lang="ts">
-import { useProjectStore } from "~/store/project";
+import { useProjectStore } from "~~/store/project";
 
 export default {
     setup() {

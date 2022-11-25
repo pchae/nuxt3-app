@@ -16,7 +16,7 @@
 </template>
 
 <script lang="ts">
-import { useClientStore } from "~/store/client";
+import { useClientStore } from "~~/store/client";
 
 export default {
     setup() {

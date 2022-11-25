@@ -81,7 +81,7 @@
 </template>
 
 <script>
-    import { useProjectStore } from "~/store/project";
+    import { useProjectStore } from "~~/store/project";
 
     export default {
         setup() {

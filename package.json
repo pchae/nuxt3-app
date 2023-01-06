@@ -13,7 +13,7 @@
     "sass": "1.57.1"
   },
   "dependencies": {
-    "@pinia/nuxt": "0.4.5",
+    "@pinia/nuxt": "0.4.6",
     "bulma": "0.9.4"
   }
 }
